@@ -1,0 +1,401 @@
+event_id,event_name,genre,date,venue_name,latitude,longitude,ticket_price,organizer,description
+2d772474,Art Fest 2026,Art,11/16/25,Pabst Theater,43.0431,-87.9104,$0 ,Local Arts Council,Family-friendly activities and vendors.
+5d2dd686,Art Fest 2025,Art,9/3/25,Marcus Performing Arts Center,43.0415,-87.9098,$90 ,Local Arts Council,Networking and inspiration for professionals.
+9d90b166,Art Fest 2024,Art,10/2/25,Potawatomi Hotel,43.0339,-87.9332,$32 ,Local Arts Council,Live performances and great vibes.
+5769c079,Art Fest 2026,Art,12/1/25,Potawatomi Hotel,43.0339,-87.9332,$36 ,Local Arts Council,"Discover flavors, music, and culture."
+cc98cc8d,Art Fest 2025,Art,9/5/25,Milwaukee Art Museum,43.0389,-87.8971,$42 ,Local Arts Council,Family-friendly activities and vendors.
+bfa20177,Art Fest 2024,Art,10/11/25,UWM Campus,43.0766,-87.88,$0 ,Local Arts Council,Community event celebrating Milwaukee.
+b0f2cc04,Art Fest 2026,Art,10/19/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Local Arts Council,Community event celebrating Milwaukee.
+7cbc3aea,Art Fest 2024,Art,10/18/25,Potawatomi Hotel,43.0339,-87.9332,$41 ,Local Arts Council,Workshops and interactive exhibits.
+252152f0,Art Fest 2025,Art,9/12/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Local Arts Council,Workshops and interactive exhibits.
+cbba79b3,Art Fest 2026,Art,9/10/25,Marcus Performing Arts Center,43.0415,-87.9098,$28 ,Local Arts Council,Workshops and interactive exhibits.
+d90895c7,Art Fest 2024,Art,11/6/25,Bradley Symphony Center,43.0385,-87.906,$38 ,Local Arts Council,Live performances and great vibes.
+4d2e61c6,Art Fest 2025,Art,12/14/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Local Arts Council,"Discover flavors, music, and culture."
+fca887b4,Art Fest 2024,Art,12/20/25,Bradley Symphony Center,43.0385,-87.906,$72 ,Local Arts Council,"Discover flavors, music, and culture."
+ee4d0053,Art Fest 2025,Art,10/6/25,UWM Campus,43.0766,-87.88,$142 ,Local Arts Council,"Discover flavors, music, and culture."
+6aaa1eea,Art Fest 2024,Art,9/12/25,Milwaukee Art Museum,43.0389,-87.8971,$24 ,Local Arts Council,Top comedians on stage.
+62df5dcf,Art Fest 2026,Art,11/27/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Local Arts Council,Community event celebrating Milwaukee.
+0766ad9a,Art Fest 2025,Art,9/16/25,Bradley Symphony Center,43.0385,-87.906,$19 ,Local Arts Council,Live performances and great vibes.
+9ed5ee84,Art Fest 2026,Art,12/12/25,UWM Campus,43.0766,-87.88,$102 ,Local Arts Council,Top comedians on stage.
+6c430453,Art Fest 2024,Art,9/1/25,Fiserv Forum,43.0437,-87.9172,$0 ,Local Arts Council,"Discover flavors, music, and culture."
+c570aca5,Art Fest 2025,Art,10/13/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Local Arts Council,Community event celebrating Milwaukee.
+9700c01e,Art Fest 2025,Art,9/1/25,Discovery World,43.0387,-87.8966,$0 ,Local Arts Council,Networking and inspiration for professionals.
+73cf3499,Art Fest 2024,Art,12/4/25,Potawatomi Hotel,43.0339,-87.9332,$44 ,Local Arts Council,Networking and inspiration for professionals.
+677f4c30,Art Fest 2025,Art,10/9/25,Potawatomi Hotel,43.0339,-87.9332,$84 ,Local Arts Council,Top comedians on stage.
+8b0f454b,Art Fest 2025,Art,12/13/25,Fiserv Forum,43.0437,-87.9172,$31 ,Local Arts Council,Community event celebrating Milwaukee.
+84a60daf,Art Fest 2025,Art,10/6/25,Potawatomi Hotel,43.0339,-87.9332,$136 ,Local Arts Council,"Discover flavors, music, and culture."
+69eff24b,Art Fest 2025,Art,8/30/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Local Arts Council,Community event celebrating Milwaukee.
+1d74c917,Art Fest 2026,Art,9/18/25,Turner Hall Ballroom,43.0432,-87.9105,$48 ,Local Arts Council,"Discover flavors, music, and culture."
+f7aaa8ae,Art Fest 2024,Art,9/26/25,Discovery World,43.0387,-87.8966,$106 ,Local Arts Council,Top comedians on stage.
+c5776d41,Art Fest 2025,Art,9/13/25,Milwaukee Art Museum,43.0389,-87.8971,$46 ,Local Arts Council,Community event celebrating Milwaukee.
+c460f7e1,Art Fest 2024,Art,12/20/25,Discovery World,43.0387,-87.8966,$34 ,Local Arts Council,Workshops and interactive exhibits.
+dd209599,Art Fest 2025,Art,12/7/25,Marcus Performing Arts Center,43.0415,-87.9098,$190 ,Local Arts Council,"Discover flavors, music, and culture."
+c992eaf6,Art Fest 2026,Art,8/23/25,UWM Campus,43.0766,-87.88,$0 ,Local Arts Council,Live performances and great vibes.
+cfed4928,Art Fest 2025,Art,12/2/25,Turner Hall Ballroom,43.0432,-87.9105,$169 ,Local Arts Council,Networking and inspiration for professionals.
+3e1be8bb,Art Fest 2025,Art,9/22/25,Potawatomi Hotel,43.0339,-87.9332,$35 ,Local Arts Council,Family-friendly activities and vendors.
+b0e77c59,Art Fest 2025,Art,9/26/25,Lakefront Brewery,43.0525,-87.9058,$43 ,Local Arts Council,Community event celebrating Milwaukee.
+4adc568b,Art Fest 2026,Art,11/19/25,Bradley Symphony Center,43.0385,-87.906,$24 ,Local Arts Council,Community event celebrating Milwaukee.
+62b7e1eb,Art Fest 2025,Art,9/4/25,Turner Hall Ballroom,43.0432,-87.9105,$39 ,Local Arts Council,Community event celebrating Milwaukee.
+1142bb2e,Art Fest 2025,Art,8/31/25,Discovery World,43.0387,-87.8966,$175 ,Local Arts Council,Workshops and interactive exhibits.
+631e6db3,Business Fest 2025,Business,11/9/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Milwaukee Business Forum,Workshops and interactive exhibits.
+6424898f,Business Fest 2026,Business,12/15/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Milwaukee Business Forum,"Discover flavors, music, and culture."
+652aed11,Business Fest 2024,Business,9/14/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Milwaukee Business Forum,Family-friendly activities and vendors.
+49520226,Business Fest 2025,Business,11/23/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Business Forum,Live performances and great vibes.
+27a03c0d,Business Fest 2026,Business,9/23/25,Turner Hall Ballroom,43.0432,-87.9105,$46 ,Milwaukee Business Forum,Family-friendly activities and vendors.
+3a2c89db,Business Fest 2024,Business,10/21/25,Pabst Theater,43.0431,-87.9104,$23 ,Milwaukee Business Forum,"Discover flavors, music, and culture."
+806e88ce,Business Fest 2026,Business,10/20/25,Lakefront Brewery,43.0525,-87.9058,$115 ,Milwaukee Business Forum,Community event celebrating Milwaukee.
+c2aeda7b,Business Fest 2024,Business,8/24/25,Lakefront Brewery,43.0525,-87.9058,$130 ,Milwaukee Business Forum,Networking and inspiration for professionals.
+51eb1506,Business Fest 2024,Business,10/17/25,Turner Hall Ballroom,43.0432,-87.9105,$18 ,Milwaukee Business Forum,Family-friendly activities and vendors.
+6acc8778,Business Fest 2024,Business,8/28/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Milwaukee Business Forum,Workshops and interactive exhibits.
+1e1ef09f,Business Fest 2024,Business,9/29/25,Potawatomi Hotel,43.0339,-87.9332,$30 ,Milwaukee Business Forum,Live performances and great vibes.
+bca88dc1,Business Fest 2025,Business,8/24/25,Milwaukee Art Museum,43.0389,-87.8971,$116 ,Milwaukee Business Forum,Top comedians on stage.
+9d28b11d,Business Fest 2026,Business,10/11/25,Pabst Theater,43.0431,-87.9104,$164 ,Milwaukee Business Forum,Top comedians on stage.
+799bc11e,Business Fest 2026,Business,10/27/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Milwaukee Business Forum,Workshops and interactive exhibits.
+6897223c,Business Fest 2025,Business,8/25/25,Discovery World,43.0387,-87.8966,$122 ,Milwaukee Business Forum,"Discover flavors, music, and culture."
+886b9d75,Business Fest 2025,Business,9/11/25,Milwaukee Art Museum,43.0389,-87.8971,$62 ,Milwaukee Business Forum,Family-friendly activities and vendors.
+0651ef25,Business Fest 2026,Business,9/16/25,Potawatomi Hotel,43.0339,-87.9332,$63 ,Milwaukee Business Forum,Live performances and great vibes.
+9960c24e,Business Fest 2024,Business,9/28/25,Potawatomi Hotel,43.0339,-87.9332,$189 ,Milwaukee Business Forum,"Discover flavors, music, and culture."
+8548a783,Business Fest 2026,Business,12/10/25,UWM Campus,43.0766,-87.88,$26 ,Milwaukee Business Forum,Top comedians on stage.
+f3282d5c,Business Fest 2025,Business,10/24/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Milwaukee Business Forum,"Discover flavors, music, and culture."
+9e17ea24,Business Fest 2025,Business,10/31/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Milwaukee Business Forum,Community event celebrating Milwaukee.
+2cfd727c,Business Fest 2026,Business,11/18/25,Lakefront Brewery,43.0525,-87.9058,$46 ,Milwaukee Business Forum,Networking and inspiration for professionals.
+bc7aba95,Business Fest 2024,Business,11/10/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Milwaukee Business Forum,Top comedians on stage.
+aca89d6d,Business Fest 2024,Business,10/13/25,UWM Campus,43.0766,-87.88,$34 ,Milwaukee Business Forum,Live performances and great vibes.
+bf700309,Business Fest 2026,Business,11/24/25,Fiserv Forum,43.0437,-87.9172,$140 ,Milwaukee Business Forum,Top comedians on stage.
+d707b27b,Business Fest 2024,Business,11/30/25,Discovery World,43.0387,-87.8966,$16 ,Milwaukee Business Forum,Community event celebrating Milwaukee.
+bb145ecf,Business Fest 2025,Business,11/3/25,Milwaukee Art Museum,43.0389,-87.8971,$181 ,Milwaukee Business Forum,Live performances and great vibes.
+13d528e6,Business Fest 2024,Business,12/7/25,Milwaukee Art Museum,43.0389,-87.8971,$72 ,Milwaukee Business Forum,Networking and inspiration for professionals.
+6f6365a6,Business Fest 2025,Business,9/7/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Business Forum,Community event celebrating Milwaukee.
+15a96a07,Business Fest 2026,Business,9/8/25,Marcus Performing Arts Center,43.0415,-87.9098,$100 ,Milwaukee Business Forum,Top comedians on stage.
+0e8dddb7,Business Fest 2025,Business,9/25/25,Lakefront Brewery,43.0525,-87.9058,$27 ,Milwaukee Business Forum,Workshops and interactive exhibits.
+c512e30e,Business Fest 2024,Business,10/11/25,Turner Hall Ballroom,43.0432,-87.9105,$37 ,Milwaukee Business Forum,"Discover flavors, music, and culture."
+3aaf500b,Business Fest 2026,Business,11/1/25,Potawatomi Hotel,43.0339,-87.9332,$31 ,Milwaukee Business Forum,Family-friendly activities and vendors.
+14ed9dac,Business Fest 2026,Business,9/15/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Milwaukee Business Forum,Workshops and interactive exhibits.
+a18a67b4,Business Fest 2024,Business,10/13/25,Discovery World,43.0387,-87.8966,$12 ,Milwaukee Business Forum,Community event celebrating Milwaukee.
+ed6037db,Business Fest 2025,Business,12/7/25,Turner Hall Ballroom,43.0432,-87.9105,$131 ,Milwaukee Business Forum,Networking and inspiration for professionals.
+ade824c3,Business Fest 2026,Business,10/11/25,Marcus Performing Arts Center,43.0415,-87.9098,$34 ,Milwaukee Business Forum,Top comedians on stage.
+24fcd200,Business Fest 2024,Business,9/15/25,Milwaukee Art Museum,43.0389,-87.8971,$24 ,Milwaukee Business Forum,"Discover flavors, music, and culture."
+96229bf6,Business Fest 2026,Business,10/10/25,Turner Hall Ballroom,43.0432,-87.9105,$40 ,Milwaukee Business Forum,Workshops and interactive exhibits.
+b8b0356c,Comedy Fest 2024,Comedy,12/10/25,Potawatomi Hotel,43.0339,-87.9332,$14 ,Comedy Nights WI,Workshops and interactive exhibits.
+2364a41f,Comedy Fest 2026,Comedy,10/18/25,Fiserv Forum,43.0437,-87.9172,$25 ,Comedy Nights WI,"Discover flavors, music, and culture."
+3354f56c,Comedy Fest 2025,Comedy,11/21/25,Milwaukee Art Museum,43.0389,-87.8971,$10 ,Comedy Nights WI,Community event celebrating Milwaukee.
+c513691a,Comedy Fest 2026,Comedy,11/24/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Comedy Nights WI,"Discover flavors, music, and culture."
+917246b3,Comedy Fest 2026,Comedy,11/28/25,Marcus Performing Arts Center,43.0415,-87.9098,$17 ,Comedy Nights WI,Top comedians on stage.
+a03398e5,Comedy Fest 2025,Comedy,12/6/25,Pabst Theater,43.0431,-87.9104,$153 ,Comedy Nights WI,Top comedians on stage.
+d3267375,Comedy Fest 2026,Comedy,10/31/25,Pabst Theater,43.0431,-87.9104,$30 ,Comedy Nights WI,Community event celebrating Milwaukee.
+2c6dc692,Comedy Fest 2025,Comedy,9/3/25,UWM Campus,43.0766,-87.88,$50 ,Comedy Nights WI,Workshops and interactive exhibits.
+395681c8,Comedy Fest 2026,Comedy,11/18/25,Fiserv Forum,43.0437,-87.9172,$18 ,Comedy Nights WI,Workshops and interactive exhibits.
+0be16777,Comedy Fest 2026,Comedy,9/3/25,UWM Campus,43.0766,-87.88,$146 ,Comedy Nights WI,Live performances and great vibes.
+9b5ba10c,Comedy Fest 2026,Comedy,10/18/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Comedy Nights WI,Workshops and interactive exhibits.
+9423aa9e,Comedy Fest 2026,Comedy,11/15/25,Potawatomi Hotel,43.0339,-87.9332,$29 ,Comedy Nights WI,Top comedians on stage.
+5f580912,Comedy Fest 2025,Comedy,10/12/25,Pabst Theater,43.0431,-87.9104,$193 ,Comedy Nights WI,Workshops and interactive exhibits.
+408b75dd,Comedy Fest 2024,Comedy,9/2/25,Potawatomi Hotel,43.0339,-87.9332,$157 ,Comedy Nights WI,Workshops and interactive exhibits.
+ebe6b5ce,Comedy Fest 2026,Comedy,9/5/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Comedy Nights WI,Family-friendly activities and vendors.
+b18537d6,Comedy Fest 2024,Comedy,11/23/25,Pabst Theater,43.0431,-87.9104,$169 ,Comedy Nights WI,Networking and inspiration for professionals.
+b10380fd,Comedy Fest 2025,Comedy,9/12/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Comedy Nights WI,Live performances and great vibes.
+f5805d3a,Comedy Fest 2026,Comedy,11/16/25,Lakefront Brewery,43.0525,-87.9058,$33 ,Comedy Nights WI,Workshops and interactive exhibits.
+5ec5f696,Comedy Fest 2025,Comedy,9/9/25,UWM Campus,43.0766,-87.88,$63 ,Comedy Nights WI,Top comedians on stage.
+1897f7a7,Comedy Fest 2025,Comedy,10/5/25,Milwaukee Art Museum,43.0389,-87.8971,$30 ,Comedy Nights WI,Live performances and great vibes.
+2f2f5f70,Comedy Fest 2024,Comedy,12/8/25,Fiserv Forum,43.0437,-87.9172,$12 ,Comedy Nights WI,Community event celebrating Milwaukee.
+d1566254,Comedy Fest 2025,Comedy,10/12/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Comedy Nights WI,Workshops and interactive exhibits.
+680ef32f,Comedy Fest 2024,Comedy,8/28/25,Bradley Symphony Center,43.0385,-87.906,$22 ,Comedy Nights WI,Live performances and great vibes.
+4e283e8f,Comedy Fest 2026,Comedy,10/23/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Comedy Nights WI,Networking and inspiration for professionals.
+310e1ffc,Comedy Fest 2024,Comedy,11/2/25,UWM Campus,43.0766,-87.88,$162 ,Comedy Nights WI,"Discover flavors, music, and culture."
+fa195dc3,Comedy Fest 2025,Comedy,10/28/25,Bradley Symphony Center,43.0385,-87.906,$99 ,Comedy Nights WI,Community event celebrating Milwaukee.
+784e617e,Comedy Fest 2024,Comedy,12/15/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Comedy Nights WI,Live performances and great vibes.
+ebed5103,Comedy Fest 2025,Comedy,10/19/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Comedy Nights WI,Top comedians on stage.
+f6046e3b,Comedy Fest 2025,Comedy,9/30/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Comedy Nights WI,Community event celebrating Milwaukee.
+8713e48f,Comedy Fest 2024,Comedy,9/23/25,Lakefront Brewery,43.0525,-87.9058,$21 ,Comedy Nights WI,Family-friendly activities and vendors.
+beb21bff,Comedy Fest 2025,Comedy,11/4/25,Milwaukee Art Museum,43.0389,-87.8971,$179 ,Comedy Nights WI,"Discover flavors, music, and culture."
+f2a349b3,Education Fest 2026,Educational,9/16/25,UWM Campus,43.0766,-87.88,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+f46887c3,Education Fest 2025,Educational,9/1/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+2e7b65fe,Education Fest 2025,Educational,11/5/25,Marcus Performing Arts Center,43.0415,-87.9098,$62 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+e916bf16,Education Fest 2025,Educational,10/19/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+4e82ba09,Education Fest 2026,Educational,10/6/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+af426120,Education Fest 2024,Educational,12/2/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+8be8da5f,Education Fest 2026,Educational,11/4/25,Fiserv Forum,43.0437,-87.9172,$74 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+1c2d2cba,Education Fest 2025,Educational,10/26/25,Potawatomi Hotel,43.0339,-87.9332,$17 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+33ec0957,Education Fest 2025,Educational,10/17/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+309b3446,Education Fest 2024,Educational,11/30/25,UWM Campus,43.0766,-87.88,$39 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+c1468640,Education Fest 2026,Educational,9/16/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+7df61771,Education Fest 2024,Educational,8/27/25,Marcus Performing Arts Center,43.0415,-87.9098,$76 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+0c5adef4,Education Fest 2026,Educational,8/26/25,Bradley Symphony Center,43.0385,-87.906,$178 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+18054c50,Education Fest 2025,Educational,11/10/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+8da774a0,Education Fest 2026,Educational,8/23/25,Lakefront Brewery,43.0525,-87.9058,$47 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+2cf0de73,Education Fest 2026,Educational,9/1/25,Marcus Performing Arts Center,43.0415,-87.9098,$77 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+b6697f7f,Education Fest 2024,Educational,9/24/25,Pabst Theater,43.0431,-87.9104,$13 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+54789bba,Education Fest 2025,Educational,9/27/25,Discovery World,43.0387,-87.8966,$129 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+00a68fc4,Education Fest 2025,Educational,10/19/25,Fiserv Forum,43.0437,-87.9172,$0 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+be164b35,Education Fest 2024,Educational,11/5/25,Milwaukee Art Museum,43.0389,-87.8971,$12 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+45bd5d43,Education Fest 2024,Educational,9/29/25,Lakefront Brewery,43.0525,-87.9058,$36 ,Milwaukee Events Collective,Live performances and great vibes.
+4eacb7d9,Education Fest 2025,Educational,10/11/25,Fiserv Forum,43.0437,-87.9172,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+667a7c7c,Education Fest 2026,Educational,12/14/25,UWM Campus,43.0766,-87.88,$175 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+6ea036be,Education Fest 2025,Educational,11/17/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+23bc116d,Education Fest 2026,Educational,8/29/25,Pabst Theater,43.0431,-87.9104,$45 ,Milwaukee Events Collective,Top comedians on stage.
+70aaea55,Education Fest 2024,Educational,12/2/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+cf9c5c3d,Education Fest 2024,Educational,9/15/25,Potawatomi Hotel,43.0339,-87.9332,$47 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+8788d92e,Education Fest 2025,Educational,12/7/25,Bradley Symphony Center,43.0385,-87.906,$22 ,Milwaukee Events Collective,Live performances and great vibes.
+40e45f04,Education Fest 2026,Educational,9/25/25,Marcus Performing Arts Center,43.0415,-87.9098,$12 ,Milwaukee Events Collective,Live performances and great vibes.
+d3a507b8,Education Fest 2026,Educational,11/1/25,Potawatomi Hotel,43.0339,-87.9332,$180 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+8b2ec55d,Education Fest 2026,Educational,12/20/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+9fa17435,Education Fest 2026,Educational,10/22/25,Milwaukee Art Museum,43.0389,-87.8971,$44 ,Milwaukee Events Collective,Live performances and great vibes.
+a4b03861,Education Fest 2025,Educational,12/11/25,Milwaukee Art Museum,43.0389,-87.8971,$40 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+b86c9a3f,Education Fest 2024,Educational,10/12/25,Pabst Theater,43.0431,-87.9104,$92 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+28ec12df,Education Fest 2025,Educational,10/5/25,Discovery World,43.0387,-87.8966,$120 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+7abc035a,Education Fest 2024,Educational,8/23/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+95b69aa9,Education Fest 2026,Educational,9/20/25,Bradley Symphony Center,43.0385,-87.906,$68 ,Milwaukee Events Collective,Top comedians on stage.
+6df6d512,Education Fest 2024,Educational,10/12/25,Lakefront Brewery,43.0525,-87.9058,$103 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+beb07660,Education Fest 2026,Educational,9/21/25,Bradley Symphony Center,43.0385,-87.906,$19 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+876bf83d,Education Fest 2026,Educational,10/6/25,Lakefront Brewery,43.0525,-87.9058,$22 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+6539584d,Education Fest 2025,Educational,12/19/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,Top comedians on stage.
+74a01f8a,Education Fest 2026,Educational,12/6/25,Fiserv Forum,43.0437,-87.9172,$34 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+22bdadc5,Education Fest 2024,Educational,11/25/25,Lakefront Brewery,43.0525,-87.9058,$86 ,Milwaukee Events Collective,Live performances and great vibes.
+85980a0f,Education Fest 2024,Educational,11/3/25,Milwaukee Art Museum,43.0389,-87.8971,$24 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+cf50fbf9,Education Fest 2024,Educational,9/4/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+7950a99f,Family Fest 2025,Family,11/28/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Family Fun Foundation,Top comedians on stage.
+1454d6b6,Family Fest 2025,Family,10/16/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Family Fun Foundation,Workshops and interactive exhibits.
+3bcee6da,Family Fest 2026,Family,9/7/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Family Fun Foundation,Networking and inspiration for professionals.
+347f9236,Family Fest 2025,Family,10/4/25,Bradley Symphony Center,43.0385,-87.906,$137 ,Family Fun Foundation,Family-friendly activities and vendors.
+b35b93d7,Family Fest 2024,Family,10/26/25,UWM Campus,43.0766,-87.88,$181 ,Family Fun Foundation,Workshops and interactive exhibits.
+111e5693,Family Fest 2026,Family,9/6/25,Bradley Symphony Center,43.0385,-87.906,$13 ,Family Fun Foundation,Live performances and great vibes.
+68964553,Family Fest 2025,Family,10/24/25,Discovery World,43.0387,-87.8966,$49 ,Family Fun Foundation,Live performances and great vibes.
+33de0a9c,Family Fest 2024,Family,11/9/25,UWM Campus,43.0766,-87.88,$0 ,Family Fun Foundation,Family-friendly activities and vendors.
+7c8f67df,Family Fest 2024,Family,10/15/25,UWM Campus,43.0766,-87.88,$42 ,Family Fun Foundation,Top comedians on stage.
+06b61624,Family Fest 2024,Family,8/25/25,Turner Hall Ballroom,43.0432,-87.9105,$17 ,Family Fun Foundation,Workshops and interactive exhibits.
+22738251,Family Fest 2024,Family,10/12/25,Pabst Theater,43.0431,-87.9104,$64 ,Family Fun Foundation,Community event celebrating Milwaukee.
+27853319,Family Fest 2024,Family,12/18/25,Turner Hall Ballroom,43.0432,-87.9105,$46 ,Family Fun Foundation,Networking and inspiration for professionals.
+e962a452,Family Fest 2026,Family,11/12/25,UWM Campus,43.0766,-87.88,$128 ,Family Fun Foundation,Family-friendly activities and vendors.
+04fbda33,Family Fest 2025,Family,8/26/25,Turner Hall Ballroom,43.0432,-87.9105,$19 ,Family Fun Foundation,Family-friendly activities and vendors.
+60328ef1,Family Fest 2024,Family,12/18/25,Fiserv Forum,43.0437,-87.9172,$197 ,Family Fun Foundation,Networking and inspiration for professionals.
+b75962c3,Family Fest 2025,Family,10/28/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Family Fun Foundation,Community event celebrating Milwaukee.
+efafdbb1,Family Fest 2026,Family,11/3/25,Fiserv Forum,43.0437,-87.9172,$40 ,Family Fun Foundation,Networking and inspiration for professionals.
+4c6481cf,Family Fest 2024,Family,10/21/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Family Fun Foundation,Networking and inspiration for professionals.
+74f76c2e,Family Fest 2026,Family,12/4/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Family Fun Foundation,"Discover flavors, music, and culture."
+995d9fd8,Family Fest 2024,Family,9/21/25,Fiserv Forum,43.0437,-87.9172,$0 ,Family Fun Foundation,Family-friendly activities and vendors.
+fc2a4c38,Family Fest 2025,Family,10/27/25,Lakefront Brewery,43.0525,-87.9058,$39 ,Family Fun Foundation,Family-friendly activities and vendors.
+cb3cde4f,Family Fest 2025,Family,9/3/25,Pabst Theater,43.0431,-87.9104,$0 ,Family Fun Foundation,Live performances and great vibes.
+fbe2d149,Family Fest 2026,Family,11/20/25,Lakefront Brewery,43.0525,-87.9058,$110 ,Family Fun Foundation,Family-friendly activities and vendors.
+4a9348c5,Family Fest 2025,Family,9/23/25,Bradley Symphony Center,43.0385,-87.906,$132 ,Family Fun Foundation,Live performances and great vibes.
+3d21c2e9,Family Fest 2024,Family,10/24/25,Discovery World,43.0387,-87.8966,$195 ,Family Fun Foundation,Networking and inspiration for professionals.
+2ed721f0,Family Fest 2025,Family,12/10/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Family Fun Foundation,Live performances and great vibes.
+461bfdb8,Family Fest 2024,Family,11/25/25,Milwaukee Art Museum,43.0389,-87.8971,$97 ,Family Fun Foundation,Live performances and great vibes.
+909ab01e,Family Fest 2026,Family,11/9/25,Bradley Symphony Center,43.0385,-87.906,$10 ,Family Fun Foundation,Top comedians on stage.
+6e883277,Family Fest 2026,Family,8/23/25,Fiserv Forum,43.0437,-87.9172,$97 ,Family Fun Foundation,Top comedians on stage.
+af362f72,Family Fest 2026,Family,8/30/25,Turner Hall Ballroom,43.0432,-87.9105,$153 ,Family Fun Foundation,Family-friendly activities and vendors.
+510a8615,Family Fest 2025,Family,11/19/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Family Fun Foundation,Live performances and great vibes.
+e5c771b7,Family Fest 2024,Family,10/4/25,Bradley Symphony Center,43.0385,-87.906,$125 ,Family Fun Foundation,Workshops and interactive exhibits.
+abbeb37b,Family Fest 2024,Family,11/24/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Family Fun Foundation,Networking and inspiration for professionals.
+d51dae85,Family Fest 2026,Family,9/3/25,Lakefront Brewery,43.0525,-87.9058,$26 ,Family Fun Foundation,Family-friendly activities and vendors.
+1a6788e9,Family Fest 2026,Family,11/4/25,Bradley Symphony Center,43.0385,-87.906,$21 ,Family Fun Foundation,Workshops and interactive exhibits.
+02b59704,Family Fest 2026,Family,9/18/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Family Fun Foundation,"Discover flavors, music, and culture."
+abcbf952,Family Fest 2025,Family,12/12/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Family Fun Foundation,Top comedians on stage.
+14d976c7,Family Fest 2024,Family,9/16/25,Turner Hall Ballroom,43.0432,-87.9105,$73 ,Family Fun Foundation,Top comedians on stage.
+1464691a,Family Fest 2025,Family,9/11/25,Pabst Theater,43.0431,-87.9104,$75 ,Family Fun Foundation,Networking and inspiration for professionals.
+e01ec03a,Family Fest 2025,Family,9/13/25,Potawatomi Hotel,43.0339,-87.9332,$10 ,Family Fun Foundation,Top comedians on stage.
+3dd6f9ce,Family Fest 2025,Family,11/15/25,UWM Campus,43.0766,-87.88,$0 ,Family Fun Foundation,Top comedians on stage.
+542e84ba,Family Fest 2026,Family,10/2/25,Discovery World,43.0387,-87.8966,$12 ,Family Fun Foundation,"Discover flavors, music, and culture."
+7f4514f3,Family Fest 2026,Family,12/7/25,Fiserv Forum,43.0437,-87.9172,$188 ,Family Fun Foundation,Top comedians on stage.
+a325f044,Family Fest 2026,Family,9/30/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Family Fun Foundation,Top comedians on stage.
+11f1a859,Food Fest 2026,Food & Drink,9/2/25,Fiserv Forum,43.0437,-87.9172,$138 ,Taste of Milwaukee,Top comedians on stage.
+78b0d7cf,Food Fest 2024,Food & Drink,9/11/25,Fiserv Forum,43.0437,-87.9172,$0 ,Taste of Milwaukee,"Discover flavors, music, and culture."
+3380ec12,Food Fest 2025,Food & Drink,10/4/25,Bradley Symphony Center,43.0385,-87.906,$95 ,Taste of Milwaukee,Family-friendly activities and vendors.
+77b86b5f,Food Fest 2026,Food & Drink,10/1/25,Pabst Theater,43.0431,-87.9104,$128 ,Taste of Milwaukee,Family-friendly activities and vendors.
+cc69b9de,Food Fest 2025,Food & Drink,9/20/25,Potawatomi Hotel,43.0339,-87.9332,$35 ,Taste of Milwaukee,"Discover flavors, music, and culture."
+aed676c1,Food Fest 2026,Food & Drink,9/25/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Taste of Milwaukee,Networking and inspiration for professionals.
+fb07a2e8,Food Fest 2025,Food & Drink,11/6/25,Lakefront Brewery,43.0525,-87.9058,$48 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+dd09d710,Food Fest 2025,Food & Drink,10/5/25,Turner Hall Ballroom,43.0432,-87.9105,$25 ,Taste of Milwaukee,Networking and inspiration for professionals.
+bbd1a240,Food Fest 2024,Food & Drink,10/24/25,Pabst Theater,43.0431,-87.9104,$29 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+ea1c5917,Food Fest 2026,Food & Drink,9/18/25,Fiserv Forum,43.0437,-87.9172,$110 ,Taste of Milwaukee,Family-friendly activities and vendors.
+abe100a8,Food Fest 2026,Food & Drink,10/25/25,Bradley Symphony Center,43.0385,-87.906,$110 ,Taste of Milwaukee,Networking and inspiration for professionals.
+bca05b38,Food Fest 2026,Food & Drink,10/16/25,Marcus Performing Arts Center,43.0415,-87.9098,$153 ,Taste of Milwaukee,Networking and inspiration for professionals.
+62590d58,Food Fest 2026,Food & Drink,11/6/25,UWM Campus,43.0766,-87.88,$30 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+0af73aa4,Food Fest 2026,Food & Drink,12/15/25,Lakefront Brewery,43.0525,-87.9058,$198 ,Taste of Milwaukee,Networking and inspiration for professionals.
+5610fb12,Food Fest 2025,Food & Drink,12/16/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+a389692b,Food Fest 2024,Food & Drink,9/12/25,Lakefront Brewery,43.0525,-87.9058,$42 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+c17c7a0d,Food Fest 2025,Food & Drink,11/21/25,Turner Hall Ballroom,43.0432,-87.9105,$21 ,Taste of Milwaukee,Workshops and interactive exhibits.
+a904d57c,Food Fest 2026,Food & Drink,9/6/25,Discovery World,43.0387,-87.8966,$16 ,Taste of Milwaukee,Family-friendly activities and vendors.
+59f3050c,Food Fest 2024,Food & Drink,9/27/25,Discovery World,43.0387,-87.8966,$47 ,Taste of Milwaukee,Networking and inspiration for professionals.
+3.20E+18,Food Fest 2025,Food & Drink,9/16/25,Discovery World,43.0387,-87.8966,$0 ,Taste of Milwaukee,Family-friendly activities and vendors.
+cf016b0f,Food Fest 2026,Food & Drink,10/2/25,UWM Campus,43.0766,-87.88,$0 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+1f10d62c,Food Fest 2025,Food & Drink,9/12/25,Pabst Theater,43.0431,-87.9104,$35 ,Taste of Milwaukee,"Discover flavors, music, and culture."
+0ff60ebd,Food Fest 2025,Food & Drink,11/18/25,Discovery World,43.0387,-87.8966,$0 ,Taste of Milwaukee,"Discover flavors, music, and culture."
+4046171c,Food Fest 2024,Food & Drink,12/17/25,Milwaukee Art Museum,43.0389,-87.8971,$47 ,Taste of Milwaukee,Top comedians on stage.
+053ac680,Food Fest 2025,Food & Drink,12/10/25,Discovery World,43.0387,-87.8966,$17 ,Taste of Milwaukee,Workshops and interactive exhibits.
+a05452f0,Food Fest 2026,Food & Drink,10/20/25,Milwaukee Art Museum,43.0389,-87.8971,$37 ,Taste of Milwaukee,Live performances and great vibes.
+44eca758,Food Fest 2026,Food & Drink,9/15/25,Milwaukee Art Museum,43.0389,-87.8971,$38 ,Taste of Milwaukee,Top comedians on stage.
+63360459,Food Fest 2024,Food & Drink,12/16/25,Potawatomi Hotel,43.0339,-87.9332,$189 ,Taste of Milwaukee,Networking and inspiration for professionals.
+f2f2e60d,Food Fest 2024,Food & Drink,9/24/25,Milwaukee Art Museum,43.0389,-87.8971,$95 ,Taste of Milwaukee,Top comedians on stage.
+0edddc54,Food Fest 2025,Food & Drink,12/1/25,Pabst Theater,43.0431,-87.9104,$134 ,Taste of Milwaukee,Top comedians on stage.
+d9d7f080,Food Fest 2025,Food & Drink,10/28/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Taste of Milwaukee,Top comedians on stage.
+15f00c2c,Food Fest 2024,Food & Drink,9/19/25,Bradley Symphony Center,43.0385,-87.906,$50 ,Taste of Milwaukee,Live performances and great vibes.
+cd5b779e,Food Fest 2026,Food & Drink,9/8/25,Pabst Theater,43.0431,-87.9104,$0 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+723f3fc9,Food Fest 2025,Food & Drink,10/22/25,Pabst Theater,43.0431,-87.9104,$30 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+50ef7ca0,Food Fest 2026,Food & Drink,10/21/25,Milwaukee Art Museum,43.0389,-87.8971,$77 ,Taste of Milwaukee,Networking and inspiration for professionals.
+da67b25f,Food Fest 2026,Food & Drink,12/8/25,Discovery World,43.0387,-87.8966,$0 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+fc769b74,Food Fest 2025,Food & Drink,9/22/25,Pabst Theater,43.0431,-87.9104,$158 ,Taste of Milwaukee,Community event celebrating Milwaukee.
+0186c310,Food Fest 2024,Food & Drink,10/9/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Taste of Milwaukee,Live performances and great vibes.
+54cba977,Music Fest 2025,Music,10/22/25,Bradley Symphony Center,43.0385,-87.906,$100 ,City of Milwaukee Live,Family-friendly activities and vendors.
+cd2d5b24,Music Fest 2024,Music,9/5/25,Turner Hall Ballroom,43.0432,-87.9105,$26 ,City of Milwaukee Live,Community event celebrating Milwaukee.
+5f3b29e5,Music Fest 2025,Music,9/28/25,UWM Campus,43.0766,-87.88,$20 ,City of Milwaukee Live,"Discover flavors, music, and culture."
+f962777b,Music Fest 2024,Music,10/9/25,Milwaukee Art Museum,43.0389,-87.8971,$140 ,City of Milwaukee Live,Family-friendly activities and vendors.
+cfd628dd,Music Fest 2024,Music,11/26/25,Marcus Performing Arts Center,43.0415,-87.9098,$14 ,City of Milwaukee Live,Community event celebrating Milwaukee.
+32ce8d3f,Music Fest 2025,Music,10/30/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,City of Milwaukee Live,Top comedians on stage.
+9e356227,Music Fest 2024,Music,12/16/25,Fiserv Forum,43.0437,-87.9172,$0 ,City of Milwaukee Live,Family-friendly activities and vendors.
+de9ed11b,Music Fest 2026,Music,11/28/25,Turner Hall Ballroom,43.0432,-87.9105,$48 ,City of Milwaukee Live,Live performances and great vibes.
+42c0d524,Music Fest 2025,Music,11/22/25,Pabst Theater,43.0431,-87.9104,$0 ,City of Milwaukee Live,Workshops and interactive exhibits.
+fb8f7b22,Music Fest 2024,Music,11/27/25,Turner Hall Ballroom,43.0432,-87.9105,$15 ,City of Milwaukee Live,Workshops and interactive exhibits.
+48d18de1,Music Fest 2025,Music,9/21/25,Bradley Symphony Center,43.0385,-87.906,$0 ,City of Milwaukee Live,Live performances and great vibes.
+e1d85aea,Music Fest 2024,Music,11/24/25,UWM Campus,43.0766,-87.88,$24 ,City of Milwaukee Live,Community event celebrating Milwaukee.
+436590b9,Music Fest 2024,Music,11/18/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,City of Milwaukee Live,Top comedians on stage.
+15c01bc9,Music Fest 2024,Music,8/29/25,Bradley Symphony Center,43.0385,-87.906,$85 ,City of Milwaukee Live,Top comedians on stage.
+312eae74,Music Fest 2026,Music,10/26/25,UWM Campus,43.0766,-87.88,$0 ,City of Milwaukee Live,Family-friendly activities and vendors.
+afee4077,Music Fest 2025,Music,9/30/25,Lakefront Brewery,43.0525,-87.9058,$189 ,City of Milwaukee Live,Top comedians on stage.
+62d46d68,Music Fest 2024,Music,9/11/25,Discovery World,43.0387,-87.8966,$37 ,City of Milwaukee Live,Networking and inspiration for professionals.
+a405dfb4,Music Fest 2025,Music,10/6/25,Marcus Performing Arts Center,43.0415,-87.9098,$164 ,City of Milwaukee Live,Top comedians on stage.
+a94750de,Music Fest 2026,Music,9/21/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,City of Milwaukee Live,Networking and inspiration for professionals.
+4dbfe146,Music Fest 2024,Music,9/14/25,Discovery World,43.0387,-87.8966,$91 ,City of Milwaukee Live,Networking and inspiration for professionals.
+43de26a6,Music Fest 2025,Music,10/2/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,City of Milwaukee Live,Workshops and interactive exhibits.
+2c727a66,Music Fest 2025,Music,10/7/25,Potawatomi Hotel,43.0339,-87.9332,$12 ,City of Milwaukee Live,Networking and inspiration for professionals.
+0286e0c4,Music Fest 2025,Music,12/14/25,Discovery World,43.0387,-87.8966,$0 ,City of Milwaukee Live,"Discover flavors, music, and culture."
+0ed1488a,Music Fest 2026,Music,9/5/25,Milwaukee Art Museum,43.0389,-87.8971,$47 ,City of Milwaukee Live,Top comedians on stage.
+930e86f0,Music Fest 2024,Music,11/7/25,Turner Hall Ballroom,43.0432,-87.9105,$70 ,City of Milwaukee Live,Top comedians on stage.
+0e4fc42e,Music Fest 2024,Music,12/2/25,Turner Hall Ballroom,43.0432,-87.9105,$46 ,City of Milwaukee Live,Live performances and great vibes.
+1d29cf8a,Music Fest 2026,Music,9/22/25,Potawatomi Hotel,43.0339,-87.9332,$106 ,City of Milwaukee Live,Live performances and great vibes.
+d4d1d7db,Music Fest 2026,Music,10/15/25,Milwaukee Art Museum,43.0389,-87.8971,$42 ,City of Milwaukee Live,"Discover flavors, music, and culture."
+6b59d68e,Music Fest 2026,Music,10/25/25,Fiserv Forum,43.0437,-87.9172,$0 ,City of Milwaukee Live,Workshops and interactive exhibits.
+4c1e5e74,Music Fest 2025,Music,10/20/25,Turner Hall Ballroom,43.0432,-87.9105,$142 ,City of Milwaukee Live,"Discover flavors, music, and culture."
+3bec0b88,Music Fest 2025,Music,9/24/25,Marcus Performing Arts Center,43.0415,-87.9098,$14 ,City of Milwaukee Live,Networking and inspiration for professionals.
+47f17642,Music Fest 2026,Music,8/22/25,Bradley Symphony Center,43.0385,-87.906,$179 ,City of Milwaukee Live,"Discover flavors, music, and culture."
+34965ffb,Music Fest 2025,Music,11/22/25,UWM Campus,43.0766,-87.88,$45 ,City of Milwaukee Live,Community event celebrating Milwaukee.
+975a9164,Music Fest 2025,Music,11/17/25,Turner Hall Ballroom,43.0432,-87.9105,$50 ,City of Milwaukee Live,Top comedians on stage.
+6aa79d82,Music Fest 2026,Music,10/19/25,Discovery World,43.0387,-87.8966,$50 ,City of Milwaukee Live,Top comedians on stage.
+e53aa480,Music Fest 2025,Music,12/12/25,Pabst Theater,43.0431,-87.9104,$36 ,City of Milwaukee Live,"Discover flavors, music, and culture."
+ca0000e9,Music Fest 2026,Music,10/30/25,UWM Campus,43.0766,-87.88,$90 ,City of Milwaukee Live,"Discover flavors, music, and culture."
+90326493,Music Fest 2026,Music,9/28/25,Turner Hall Ballroom,43.0432,-87.9105,$116 ,City of Milwaukee Live,Community event celebrating Milwaukee.
+d78fad92,Music Fest 2024,Music,9/30/25,Fiserv Forum,43.0437,-87.9172,$0 ,City of Milwaukee Live,Top comedians on stage.
+8587f4a7,Music Fest 2026,Music,10/30/25,Milwaukee Art Museum,43.0389,-87.8971,$108 ,City of Milwaukee Live,Networking and inspiration for professionals.
+38ffc795,Cultural Fest 2026,Cultural,10/25/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+834fc7be,Cultural Fest 2026,Cultural,10/23/25,Fiserv Forum,43.0437,-87.9172,$35 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+0eda1d64,Cultural Fest 2026,Cultural,9/12/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+a330d102,Cultural Fest 2025,Cultural,10/9/25,Pabst Theater,43.0431,-87.9104,$15 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+8d62d421,Cultural Fest 2025,Cultural,9/8/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+7.11E+56,Cultural Fest 2026,Cultural,11/1/25,Pabst Theater,43.0431,-87.9104,$32 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+7f502016,Cultural Fest 2025,Cultural,11/21/25,Turner Hall Ballroom,43.0432,-87.9105,$16 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+10663241,Cultural Fest 2025,Cultural,10/8/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+c3023d0c,Cultural Fest 2026,Cultural,8/30/25,Marcus Performing Arts Center,43.0415,-87.9098,$62 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+c36a3710,Cultural Fest 2026,Cultural,12/10/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+bab1030f,Cultural Fest 2025,Cultural,11/17/25,Lakefront Brewery,43.0525,-87.9058,$27 ,Milwaukee Events Collective,Top comedians on stage.
+abc76b27,Cultural Fest 2026,Cultural,8/25/25,Lakefront Brewery,43.0525,-87.9058,$11 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+7a68d458,Cultural Fest 2025,Cultural,12/14/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+a0db0e08,Cultural Fest 2026,Cultural,10/22/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+281743b0,Cultural Fest 2026,Cultural,11/13/25,Marcus Performing Arts Center,43.0415,-87.9098,$193 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+5cfec759,Cultural Fest 2024,Cultural,12/14/25,Pabst Theater,43.0431,-87.9104,$25 ,Milwaukee Events Collective,Top comedians on stage.
+c3065eb9,Cultural Fest 2026,Cultural,9/13/25,Lakefront Brewery,43.0525,-87.9058,$30 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+178bbdcc,Cultural Fest 2024,Cultural,9/7/25,Marcus Performing Arts Center,43.0415,-87.9098,$30 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+f66d111c,Cultural Fest 2024,Cultural,11/27/25,Fiserv Forum,43.0437,-87.9172,$0 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+90d696b0,Cultural Fest 2025,Cultural,10/2/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+28ca08ec,Cultural Fest 2024,Cultural,8/29/25,Potawatomi Hotel,43.0339,-87.9332,$119 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+a0f9f333,Cultural Fest 2024,Cultural,10/8/25,Pabst Theater,43.0431,-87.9104,$17 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+d2384848,Cultural Fest 2026,Cultural,10/30/25,Lakefront Brewery,43.0525,-87.9058,$182 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+ad0e9420,Cultural Fest 2026,Cultural,9/10/25,Fiserv Forum,43.0437,-87.9172,$0 ,Milwaukee Events Collective,Top comedians on stage.
+54b7437c,Cultural Fest 2026,Cultural,12/5/25,Turner Hall Ballroom,43.0432,-87.9105,$114 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+a423e3ce,Cultural Fest 2025,Cultural,10/14/25,Lakefront Brewery,43.0525,-87.9058,$95 ,Milwaukee Events Collective,Live performances and great vibes.
+81db8afa,Cultural Fest 2026,Cultural,9/27/25,Turner Hall Ballroom,43.0432,-87.9105,$38 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+a6bf0690,Cultural Fest 2025,Cultural,10/25/25,Bradley Symphony Center,43.0385,-87.906,$27 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+c94d9ebf,Cultural Fest 2025,Cultural,12/10/25,Pabst Theater,43.0431,-87.9104,$158 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+3fc896bc,Cultural Fest 2026,Cultural,10/7/25,Bradley Symphony Center,43.0385,-87.906,$44 ,Milwaukee Events Collective,Live performances and great vibes.
+a449f79d,Cultural Fest 2025,Cultural,12/15/25,UWM Campus,43.0766,-87.88,$18 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+760cf53c,Cultural Fest 2024,Cultural,12/6/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+534f0561,Cultural Fest 2024,Cultural,9/28/25,UWM Campus,43.0766,-87.88,$189 ,Milwaukee Events Collective,Live performances and great vibes.
+d337f3ff,Cultural Fest 2024,Cultural,9/1/25,Discovery World,43.0387,-87.8966,$0 ,Milwaukee Events Collective,Top comedians on stage.
+013591dd,Cultural Fest 2024,Cultural,11/13/25,Milwaukee Art Museum,43.0389,-87.8971,$34 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+b844b742,Cultural Fest 2025,Cultural,11/27/25,Bradley Symphony Center,43.0385,-87.906,$12 ,Milwaukee Events Collective,Live performances and great vibes.
+f46a1a1f,Cultural Fest 2025,Cultural,11/6/25,Marcus Performing Arts Center,43.0415,-87.9098,$44 ,Milwaukee Events Collective,Top comedians on stage.
+41168649,Cultural Fest 2026,Cultural,8/22/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+39c71e28,Cultural Fest 2024,Cultural,10/28/25,Milwaukee Art Museum,43.0389,-87.8971,$22 ,Milwaukee Events Collective,Live performances and great vibes.
+44d43ec7,Cultural Fest 2026,Cultural,11/11/25,Pabst Theater,43.0431,-87.9104,$0 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+6c3711e2,Cultural Fest 2025,Cultural,10/24/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+d1438051,Cultural Fest 2025,Cultural,11/17/25,Lakefront Brewery,43.0525,-87.9058,$26 ,Milwaukee Events Collective,Live performances and great vibes.
+c6bceb79,Cultural Fest 2024,Cultural,9/16/25,Turner Hall Ballroom,43.0432,-87.9105,$173 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+3d0054b0,Cultural Fest 2024,Cultural,8/27/25,Fiserv Forum,43.0437,-87.9172,$83 ,Milwaukee Events Collective,Top comedians on stage.
+61d778c9,Cultural Fest 2025,Cultural,9/16/25,Marcus Performing Arts Center,43.0415,-87.9098,$18 ,Milwaukee Events Collective,Live performances and great vibes.
+b048b568,Cultural Fest 2025,Cultural,11/4/25,Discovery World,43.0387,-87.8966,$91 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+d1422411,Cultural Fest 2026,Cultural,11/2/25,Lakefront Brewery,43.0525,-87.9058,$88 ,Milwaukee Events Collective,Top comedians on stage.
+a9209c42,Cultural Fest 2024,Cultural,9/15/25,Marcus Performing Arts Center,43.0415,-87.9098,$133 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+d2163551,Cultural Fest 2025,Cultural,12/2/25,Milwaukee Art Museum,43.0389,-87.8971,$34 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+c45b5777,Cultural Fest 2025,Cultural,12/13/25,Milwaukee Art Museum,43.0389,-87.8971,$123 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+ad607d7b,Cultural Fest 2024,Cultural,11/7/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+a37cf89f,Cultural Fest 2026,Cultural,10/26/25,UWM Campus,43.0766,-87.88,$27 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+9982b0ee,Sports Fest 2026,Sports,9/12/25,Discovery World,43.0387,-87.8966,$20 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+8a9dfd12,Sports Fest 2024,Sports,11/17/25,Fiserv Forum,43.0437,-87.9172,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+c5b7a7cd,Sports Fest 2026,Sports,9/12/25,Fiserv Forum,43.0437,-87.9172,$19 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+9dd88d4b,Sports Fest 2024,Sports,10/3/25,UWM Campus,43.0766,-87.88,$0 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+a7782de4,Sports Fest 2025,Sports,11/28/25,Pabst Theater,43.0431,-87.9104,$168 ,Milwaukee Events Collective,Networking and inspiration for professionals.
+9632c6c3,Sports Fest 2024,Sports,9/5/25,Turner Hall Ballroom,43.0432,-87.9105,$60 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+c9ee112e,Sports Fest 2025,Sports,12/16/25,Discovery World,43.0387,-87.8966,$0 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+81edfa32,Sports Fest 2026,Sports,9/20/25,Pabst Theater,43.0431,-87.9104,$35 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+78185779,Sports Fest 2024,Sports,10/10/25,Discovery World,43.0387,-87.8966,$20 ,Milwaukee Events Collective,Top comedians on stage.
+c13de717,Sports Fest 2026,Sports,12/15/25,Fiserv Forum,43.0437,-87.9172,$25 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+10ee535f,Sports Fest 2024,Sports,11/26/25,Marcus Performing Arts Center,43.0415,-87.9098,$79 ,Milwaukee Events Collective,Top comedians on stage.
+bd9b71aa,Sports Fest 2026,Sports,8/30/25,UWM Campus,43.0766,-87.88,$137 ,Milwaukee Events Collective,Community event celebrating Milwaukee.
+e3ae8a5b,Sports Fest 2026,Sports,12/12/25,Pabst Theater,43.0431,-87.9104,$42 ,Milwaukee Events Collective,Live performances and great vibes.
+9f15ae7f,Sports Fest 2026,Sports,10/5/25,UWM Campus,43.0766,-87.88,$0 ,Milwaukee Events Collective,Live performances and great vibes.
+5399127f,Sports Fest 2024,Sports,9/23/25,Potawatomi Hotel,43.0339,-87.9332,$44 ,Milwaukee Events Collective,Live performances and great vibes.
+4497cdf0,Sports Fest 2026,Sports,9/29/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+b999abb8,Sports Fest 2024,Sports,9/9/25,Potawatomi Hotel,43.0339,-87.9332,$64 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+2c81a628,Sports Fest 2025,Sports,12/6/25,Turner Hall Ballroom,43.0432,-87.9105,$133 ,Milwaukee Events Collective,Top comedians on stage.
+1f978a02,Sports Fest 2025,Sports,11/2/25,Turner Hall Ballroom,43.0432,-87.9105,$47 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+903ecdbc,Sports Fest 2024,Sports,9/13/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+2245dde0,Sports Fest 2026,Sports,10/31/25,Marcus Performing Arts Center,43.0415,-87.9098,$76 ,Milwaukee Events Collective,Top comedians on stage.
+1139fdc7,Sports Fest 2024,Sports,11/20/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Milwaukee Events Collective,Workshops and interactive exhibits.
+a8a72963,Sports Fest 2026,Sports,11/3/25,Turner Hall Ballroom,43.0432,-87.9105,$175 ,Milwaukee Events Collective,Live performances and great vibes.
+9fd7293f,Sports Fest 2024,Sports,11/21/25,Pabst Theater,43.0431,-87.9104,$11 ,Milwaukee Events Collective,Live performances and great vibes.
+d2d8a3f1,Sports Fest 2024,Sports,11/23/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+208c5790,Sports Fest 2025,Sports,12/17/25,Discovery World,43.0387,-87.8966,$36 ,Milwaukee Events Collective,Top comedians on stage.
+e21229ed,Sports Fest 2026,Sports,10/23/25,Marcus Performing Arts Center,43.0415,-87.9098,$153 ,Milwaukee Events Collective,Family-friendly activities and vendors.
+d8f67e0a,Sports Fest 2025,Sports,10/7/25,Discovery World,43.0387,-87.8966,$196 ,Milwaukee Events Collective,"Discover flavors, music, and culture."
+a64432d1,Tech Fest 2026,Technology,8/24/25,Marcus Performing Arts Center,43.0415,-87.9098,$20 ,Wisconsin Tech Society,"Discover flavors, music, and culture."
+04939ae3,Tech Fest 2025,Technology,12/3/25,Lakefront Brewery,43.0525,-87.9058,$25 ,Wisconsin Tech Society,Top comedians on stage.
+34804e6b,Tech Fest 2024,Technology,9/18/25,Fiserv Forum,43.0437,-87.9172,$200 ,Wisconsin Tech Society,Top comedians on stage.
+a3875ec3,Tech Fest 2024,Technology,9/26/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Wisconsin Tech Society,Family-friendly activities and vendors.
+959dec40,Tech Fest 2026,Technology,12/8/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Wisconsin Tech Society,Top comedians on stage.
+2ffe4109,Tech Fest 2024,Technology,12/15/25,Bradley Symphony Center,43.0385,-87.906,$25 ,Wisconsin Tech Society,Networking and inspiration for professionals.
+2dee5ef5,Tech Fest 2024,Technology,12/9/25,Milwaukee Art Museum,43.0389,-87.8971,$25 ,Wisconsin Tech Society,Community event celebrating Milwaukee.
+10f8d4b5,Tech Fest 2025,Technology,12/14/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Wisconsin Tech Society,Family-friendly activities and vendors.
+38c3841c,Tech Fest 2024,Technology,9/11/25,Bradley Symphony Center,43.0385,-87.906,$22 ,Wisconsin Tech Society,Family-friendly activities and vendors.
+4f878506,Tech Fest 2024,Technology,8/28/25,Pabst Theater,43.0431,-87.9104,$0 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+b24b3d7d,Tech Fest 2026,Technology,11/12/25,Pabst Theater,43.0431,-87.9104,$49 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+1d670a1d,Tech Fest 2024,Technology,10/9/25,UWM Campus,43.0766,-87.88,$145 ,Wisconsin Tech Society,Community event celebrating Milwaukee.
+92a76287,Tech Fest 2026,Technology,11/14/25,UWM Campus,43.0766,-87.88,$36 ,Wisconsin Tech Society,Community event celebrating Milwaukee.
+de0f023a,Tech Fest 2024,Technology,9/4/25,Potawatomi Hotel,43.0339,-87.9332,$107 ,Wisconsin Tech Society,Top comedians on stage.
+23668d44,Tech Fest 2025,Technology,8/25/25,Pabst Theater,43.0431,-87.9104,$15 ,Wisconsin Tech Society,"Discover flavors, music, and culture."
+6eebcc2c,Tech Fest 2024,Technology,8/24/25,Potawatomi Hotel,43.0339,-87.9332,$16 ,Wisconsin Tech Society,Live performances and great vibes.
+94cbf9f8,Tech Fest 2025,Technology,9/17/25,Pabst Theater,43.0431,-87.9104,$39 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+8e4948ee,Tech Fest 2024,Technology,8/24/25,Bradley Symphony Center,43.0385,-87.906,$101 ,Wisconsin Tech Society,"Discover flavors, music, and culture."
+bf14fd16,Tech Fest 2026,Technology,11/15/25,Bradley Symphony Center,43.0385,-87.906,$50 ,Wisconsin Tech Society,"Discover flavors, music, and culture."
+35d578f9,Tech Fest 2025,Technology,12/15/25,Marcus Performing Arts Center,43.0415,-87.9098,$0 ,Wisconsin Tech Society,Top comedians on stage.
+72a0d1f4,Tech Fest 2026,Technology,11/6/25,Pabst Theater,43.0431,-87.9104,$140 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+a9309f9e,Tech Fest 2026,Technology,11/14/25,Potawatomi Hotel,43.0339,-87.9332,$67 ,Wisconsin Tech Society,Live performances and great vibes.
+fc889c9e,Tech Fest 2024,Technology,8/25/25,Lakefront Brewery,43.0525,-87.9058,$170 ,Wisconsin Tech Society,Networking and inspiration for professionals.
+a5d48024,Tech Fest 2025,Technology,11/14/25,Potawatomi Hotel,43.0339,-87.9332,$0 ,Wisconsin Tech Society,Live performances and great vibes.
+b22af2b5,Tech Fest 2024,Technology,12/10/25,Fiserv Forum,43.0437,-87.9172,$27 ,Wisconsin Tech Society,"Discover flavors, music, and culture."
+be72526b,Tech Fest 2024,Technology,12/15/25,Milwaukee Art Museum,43.0389,-87.8971,$112 ,Wisconsin Tech Society,Family-friendly activities and vendors.
+969aacd0,Tech Fest 2026,Technology,9/11/25,Potawatomi Hotel,43.0339,-87.9332,$39 ,Wisconsin Tech Society,Top comedians on stage.
+84b0e09b,Tech Fest 2024,Technology,12/20/25,Pabst Theater,43.0431,-87.9104,$46 ,Wisconsin Tech Society,Community event celebrating Milwaukee.
+2616d3bd,Tech Fest 2026,Technology,11/13/25,Marcus Performing Arts Center,43.0415,-87.9098,$25 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+48270de5,Tech Fest 2025,Technology,11/13/25,Milwaukee Art Museum,43.0389,-87.8971,$19 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+9c84d500,Tech Fest 2026,Technology,10/14/25,Marcus Performing Arts Center,43.0415,-87.9098,$47 ,Wisconsin Tech Society,Family-friendly activities and vendors.
+8e6aafa7,Tech Fest 2025,Technology,12/17/25,Fiserv Forum,43.0437,-87.9172,$19 ,Wisconsin Tech Society,"Discover flavors, music, and culture."
+3d2fd399,Tech Fest 2026,Technology,11/5/25,Fiserv Forum,43.0437,-87.9172,$32 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+264d3ae0,Tech Fest 2024,Technology,12/17/25,Lakefront Brewery,43.0525,-87.9058,$0 ,Wisconsin Tech Society,Top comedians on stage.
+d2743f40,Tech Fest 2026,Technology,12/19/25,Bradley Symphony Center,43.0385,-87.906,$0 ,Wisconsin Tech Society,Live performances and great vibes.
+61546f7c,Tech Fest 2025,Technology,9/13/25,Fiserv Forum,43.0437,-87.9172,$31 ,Wisconsin Tech Society,Networking and inspiration for professionals.
+6095adc9,Tech Fest 2024,Technology,10/14/25,Potawatomi Hotel,43.0339,-87.9332,$48 ,Wisconsin Tech Society,Top comedians on stage.
+7f2a1510,Tech Fest 2025,Technology,9/13/25,Fiserv Forum,43.0437,-87.9172,$30 ,Wisconsin Tech Society,Workshops and interactive exhibits.
+2ef3cfa8,Tech Fest 2024,Technology,12/11/25,Fiserv Forum,43.0437,-87.9172,$32 ,Wisconsin Tech Society,Community event celebrating Milwaukee.
+24b68ef1,Tech Fest 2025,Technology,9/7/25,Pabst Theater,43.0431,-87.9104,$89 ,Wisconsin Tech Society,Top comedians on stage.
+424d8e41,Tech Fest 2025,Technology,10/5/25,Marcus Performing Arts Center,43.0415,-87.9098,$123 ,Wisconsin Tech Society,Top comedians on stage.
+4406fda9,Tech Fest 2024,Technology,10/5/25,Milwaukee Art Museum,43.0389,-87.8971,$0 ,Wisconsin Tech Society,"Discover flavors, music, and culture."
+6b319a34,Tech Fest 2024,Technology,10/25/25,Discovery World,43.0387,-87.8966,$129 ,Wisconsin Tech Society,Community event celebrating Milwaukee.
+a6d75fb7,Tech Fest 2024,Technology,9/16/25,Turner Hall Ballroom,43.0432,-87.9105,$0 ,Wisconsin Tech Society,Top comedians on stage.
+0570382e,Tech Fest 2026,Technology,9/23/25,UWM Campus,43.0766,-87.88,$164 ,Wisconsin Tech Society,Workshops and interactive exhibits.

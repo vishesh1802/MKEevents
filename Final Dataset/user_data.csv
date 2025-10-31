@@ -1,0 +1,1027 @@
+user_id,event_id,genre,venue_name,visit_date
+user_1,a18a67b4,Sports,Turner Hall Ballroom,2025-10-13
+user_1,c570aca5,Art,Marcus Performing Arts Center,2025-10-07
+user_1,61d778c9,Sports,Discovery World,2025-09-17
+user_1,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_1,9dd88d4b,Sports,Marcus Performing Arts Center,2025-10-03
+user_1,9960c24e,Business,Marcus Performing Arts Center,2025-09-28
+user_1,78185779,Sports,Lakefront Brewery,2025-10-10
+user_2,a94750de,Music,Turner Hall Ballroom,2025-09-17
+user_2,652aed11,Tech,Discovery World,2025-09-14
+user_2,cf9c5c3d,Sports,Lakefront Brewery,2025-09-15
+user_2,7c8f67df,Family,UWM Campus,2025-09-05
+user_2,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_2,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_2,a423e3ce,Sports,Pabst Theater,2025-10-15
+user_3,cc98cc8d,Art,Milwaukee Art Museum,2025-08-29
+user_3,cf50fbf9,Education,Discovery World,2025-09-03
+user_3,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_3,b0f2cc04,Art,Turner Hall Ballroom,2025-10-08
+user_3,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_3,cd2d5b24,Music,Turner Hall Ballroom,2025-08-31
+user_3,61d778c9,Food,Pabst Theater,2025-09-18
+user_4,d78fad92,Music,Fiserv Forum,2025-08-23
+user_4,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_4,9632c6c3,Cultural,Potawatomi Hotel,2025-09-06
+user_4,cf9c5c3d,Sports,Lakefront Brewery,2025-09-15
+user_4,4e82ba09,Tech,Turner Hall Ballroom,2025-10-06
+user_4,3d21c2e9,Family,Discovery World,2025-10-18
+user_4,e01ec03a,Family,Potawatomi Hotel,2025-10-12
+user_4,a94750de,Music,Turner Hall Ballroom,2025-09-17
+user_4,4dbfe146,Music,Discovery World,2025-09-16
+user_4,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_4,23bc116d,Food,Bradley Symphony Center,2025-08-29
+user_4,c3023d0c,Education,UWM Campus,2025-08-30
+user_4,afee4077,Music,Lakefront Brewery,2025-09-25
+user_4,9dd88d4b,Sports,Marcus Performing Arts Center,2025-10-03
+user_4,a423e3ce,Business,Discovery World,2025-10-15
+user_5,bca88dc1,Sports,Fiserv Forum,2025-08-24
+user_5,a423e3ce,Education,Marcus Performing Arts Center,2025-10-15
+user_5,abc76b27,Food,Milwaukee Art Museum,2025-08-25
+user_5,1d74c917,Art,Turner Hall Ballroom,2025-09-28
+user_5,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_5,cf50fbf9,Food,Lakefront Brewery,2025-09-03
+user_5,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_5,42c0d524,Music,Pabst Theater,2025-10-21
+user_5,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_5,995d9fd8,Family,Fiserv Forum,2025-09-19
+user_5,652aed11,Business,Discovery World,2025-09-14
+user_5,90d696b0,Sports,Fiserv Forum,2025-10-02
+user_6,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_6,310e1ffc,Comedy,UWM Campus,2025-10-16
+user_6,408b75dd,Comedy,Potawatomi Hotel,2025-08-25
+user_6,6acc8778,Sports,Discovery World,2025-08-28
+user_6,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_6,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_6,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_6,b75962c3,Family,Marcus Performing Arts Center,2025-08-26
+user_6,81edfa32,Sports,UWM Campus,2025-09-20
+user_6,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_7,9dd88d4b,Food,UWM Campus,2025-10-03
+user_7,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_7,15a96a07,Cultural,Potawatomi Hotel,2025-09-08
+user_7,9b5ba10c,Comedy,Milwaukee Art Museum,2025-10-20
+user_7,78185779,Sports,Lakefront Brewery,2025-10-10
+user_7,42c0d524,Music,Pabst Theater,2025-08-23
+user_7,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_7,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_7,4e82ba09,Business,Turner Hall Ballroom,2025-10-06
+user_7,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_7,652aed11,Food,Fiserv Forum,2025-09-14
+user_7,b0f2cc04,Art,Turner Hall Ballroom,2025-10-08
+user_7,d51dae85,Family,Lakefront Brewery,2025-09-11
+user_7,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_8,a330d102,Food,Discovery World,2025-10-09
+user_8,ad0e9420,Food,Potawatomi Hotel,2025-09-10
+user_8,2d772474,Art,Pabst Theater,2025-09-12
+user_8,78185779,Sports,Lakefront Brewery,2025-10-10
+user_8,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_8,1454d6b6,Family,Turner Hall Ballroom,2025-10-15
+user_8,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_8,f962777b,Music,Milwaukee Art Museum,2025-10-07
+user_9,cf50fbf9,Education,Discovery World,2025-09-03
+user_9,2364a41f,Comedy,Fiserv Forum,2025-09-02
+user_9,f46887c3,Education,UWM Campus,2025-09-01
+user_9,40e45f04,Business,Fiserv Forum,2025-09-25
+user_9,abc76b27,Food,Milwaukee Art Museum,2025-08-25
+user_9,f962777b,Music,Milwaukee Art Museum,2025-10-07
+user_9,cd2d5b24,Music,Turner Hall Ballroom,2025-08-31
+user_9,3e1be8bb,Art,Potawatomi Hotel,2025-09-21
+user_9,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_9,00a68fc4,Food,Marcus Performing Arts Center,2025-10-18
+user_9,cf50fbf9,Business,Fiserv Forum,2025-09-04
+user_9,cf9c5c3d,Business,Marcus Performing Arts Center,2025-09-15
+user_10,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_10,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_10,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_10,14d976c7,Family,Turner Hall Ballroom,2025-09-12
+user_10,cf9c5c3d,Tech,Pabst Theater,2025-09-15
+user_10,bca88dc1,Cultural,Marcus Performing Arts Center,2025-08-24
+user_10,5399127f,Business,Marcus Performing Arts Center,2025-09-22
+user_10,a330d102,Education,Potawatomi Hotel,2025-10-09
+user_10,652aed11,Business,Discovery World,2025-09-14
+user_10,cf50fbf9,Business,Discovery World,2025-09-04
+user_10,54789bba,Education,Potawatomi Hotel,2025-09-26
+user_10,2d772474,Art,Pabst Theater,2025-09-03
+user_10,61d778c9,Food,Pabst Theater,2025-09-18
+user_10,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_11,1d29cf8a,Music,Potawatomi Hotel,2025-08-27
+user_11,a330d102,Business,Lakefront Brewery,2025-10-09
+user_11,a330d102,Sports,Lakefront Brewery,2025-10-09
+user_11,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_11,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_11,42c0d524,Music,Pabst Theater,2025-10-21
+user_11,54789bba,Food,Lakefront Brewery,2025-09-26
+user_11,15a96a07,Education,Potawatomi Hotel,2025-09-08
+user_11,fc2a4c38,Family,Lakefront Brewery,2025-10-17
+user_11,00a68fc4,Food,Marcus Performing Arts Center,2025-10-18
+user_11,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_11,9960c24e,Business,Marcus Performing Arts Center,2025-09-28
+user_12,00a68fc4,Cultural,Fiserv Forum,2025-10-18
+user_12,5f580912,Comedy,Pabst Theater,2025-10-03
+user_12,cf9c5c3d,Food,Discovery World,2025-09-15
+user_12,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_12,78185779,Food,Potawatomi Hotel,2025-10-10
+user_12,f46887c3,Cultural,Turner Hall Ballroom,2025-08-31
+user_12,d78fad92,Music,Fiserv Forum,2025-09-07
+user_12,42c0d524,Music,Pabst Theater,2025-10-21
+user_12,5f580912,Comedy,Pabst Theater,2025-10-15
+user_12,a330d102,Food,Discovery World,2025-10-09
+user_12,90d696b0,Sports,Fiserv Forum,2025-10-02
+user_13,f46887c3,Sports,Lakefront Brewery,2025-08-31
+user_13,33ec0957,Education,Turner Hall Ballroom,2025-10-16
+user_13,4e82ba09,Tech,Turner Hall Ballroom,2025-10-06
+user_13,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_13,5d2dd686,Art,Marcus Performing Arts Center,2025-08-28
+user_13,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_13,886b9d75,Tech,Pabst Theater,2025-09-11
+user_13,90d696b0,Sports,Potawatomi Hotel,2025-10-01
+user_13,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_13,652aed11,Tech,Discovery World,2025-09-14
+user_13,6df6d512,Cultural,Marcus Performing Arts Center,2025-10-12
+user_14,f7aaa8ae,Art,Discovery World,2025-10-07
+user_14,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_14,2d772474,Art,Pabst Theater,2025-09-12
+user_14,1d29cf8a,Music,Potawatomi Hotel,2025-09-05
+user_14,4497cdf0,Sports,Pabst Theater,2025-09-29
+user_14,cf50fbf9,Sports,Turner Hall Ballroom,2025-09-04
+user_14,5399127f,Education,UWM Campus,2025-09-23
+user_14,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_14,310e1ffc,Comedy,UWM Campus,2025-10-16
+user_14,b0e77c59,Art,Lakefront Brewery,2025-09-26
+user_14,9632c6c3,Cultural,UWM Campus,2025-09-06
+user_14,6c430453,Art,Fiserv Forum,2025-08-30
+user_15,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_15,4497cdf0,Sports,Discovery World,2025-09-30
+user_15,4e82ba09,Business,Turner Hall Ballroom,2025-10-06
+user_15,4497cdf0,Sports,Fiserv Forum,2025-09-29
+user_15,61d778c9,Sports,Discovery World,2025-09-17
+user_15,2d772474,Art,Pabst Theater,2025-08-30
+user_15,42c0d524,Music,Pabst Theater,2025-10-21
+user_15,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_15,995d9fd8,Family,Fiserv Forum,2025-09-26
+user_15,15a96a07,Sports,Bradley Symphony Center,2025-09-08
+user_15,4eacb7d9,Food,Fiserv Forum,2025-10-11
+user_15,61d778c9,Food,Pabst Theater,2025-09-18
+user_15,bca88dc1,Sports,Fiserv Forum,2025-08-24
+user_16,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_16,b6697f7f,Sports,Milwaukee Art Museum,2025-09-24
+user_16,b10380fd,Comedy,Bradley Symphony Center,2025-09-25
+user_16,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_16,995d9fd8,Family,Fiserv Forum,2025-09-19
+user_16,6c430453,Art,Fiserv Forum,2025-08-30
+user_16,cf50fbf9,Business,Fiserv Forum,2025-09-04
+user_16,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_16,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_16,d78fad92,Music,Fiserv Forum,2025-08-23
+user_16,a18a67b4,Cultural,Fiserv Forum,2025-10-13
+user_16,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_16,408b75dd,Comedy,Potawatomi Hotel,2025-08-25
+user_16,c3023d0c,Education,UWM Campus,2025-08-30
+user_17,c3023d0c,Education,UWM Campus,2025-08-30
+user_17,42c0d524,Music,Pabst Theater,2025-08-23
+user_17,c3023d0c,Sports,Marcus Performing Arts Center,2025-08-30
+user_17,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_17,a330d102,Education,Potawatomi Hotel,2025-10-09
+user_17,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_17,5399127f,Food,UWM Campus,2025-09-23
+user_17,10663241,Cultural,Pabst Theater,2025-10-08
+user_18,6acc8778,Sports,Discovery World,2025-08-28
+user_18,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_18,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_18,1d29cf8a,Music,Potawatomi Hotel,2025-09-05
+user_18,15a96a07,Cultural,Potawatomi Hotel,2025-09-08
+user_18,cf9c5c3d,Food,Discovery World,2025-09-15
+user_18,40e45f04,Education,Marcus Performing Arts Center,2025-09-25
+user_18,4dbfe146,Music,Discovery World,2025-09-16
+user_18,5f580912,Comedy,Pabst Theater,2025-10-15
+user_19,61d778c9,Sports,Discovery World,2025-09-17
+user_19,f7aaa8ae,Art,Discovery World,2025-10-07
+user_19,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_19,6acc8778,Sports,Discovery World,2025-08-28
+user_19,00a68fc4,Cultural,Fiserv Forum,2025-10-18
+user_20,a330d102,Business,Lakefront Brewery,2025-10-09
+user_20,5399127f,Education,Pabst Theater,2025-09-22
+user_20,1897f7a7,Comedy,Discovery World,2025-10-04
+user_20,a423e3ce,Business,Fiserv Forum,2025-10-14
+user_20,a423e3ce,Sports,Pabst Theater,2025-10-15
+user_21,f46887c3,Sports,Lakefront Brewery,2025-08-31
+user_21,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_21,42c0d524,Music,Pabst Theater,2025-08-23
+user_21,33ec0957,Education,Turner Hall Ballroom,2025-10-16
+user_21,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_21,7c8f67df,Family,UWM Campus,2025-09-05
+user_21,3d21c2e9,Family,Discovery World,2025-10-18
+user_21,4e82ba09,Business,Potawatomi Hotel,2025-10-06
+user_21,cf9c5c3d,Sports,Lakefront Brewery,2025-09-15
+user_22,3d21c2e9,Family,Discovery World,2025-10-18
+user_22,9632c6c3,Tech,Lakefront Brewery,2025-09-06
+user_22,cb3cde4f,Family,Pabst Theater,2025-09-06
+user_22,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_22,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_22,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_22,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_22,54789bba,Food,Lakefront Brewery,2025-09-26
+user_22,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_22,9dd88d4b,Sports,Marcus Performing Arts Center,2025-10-03
+user_23,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_23,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_23,81edfa32,Sports,UWM Campus,2025-09-20
+user_23,beb07660,Cultural,Pabst Theater,2025-09-21
+user_23,f46887c3,Tech,Fiserv Forum,2025-09-02
+user_23,81edfa32,Sports,Turner Hall Ballroom,2025-09-19
+user_23,4497cdf0,Sports,Pabst Theater,2025-09-29
+user_23,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_23,5399127f,Education,Pabst Theater,2025-09-22
+user_23,f962777b,Music,Milwaukee Art Museum,2025-10-07
+user_23,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_24,4497cdf0,Cultural,Discovery World,2025-09-29
+user_24,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_24,6c430453,Art,Fiserv Forum,2025-08-30
+user_24,14d976c7,Family,Turner Hall Ballroom,2025-09-12
+user_24,f46887c3,Education,UWM Campus,2025-09-01
+user_25,81edfa32,Sports,UWM Campus,2025-09-20
+user_25,a330d102,Business,Lakefront Brewery,2025-10-09
+user_25,4e82ba09,Tech,Turner Hall Ballroom,2025-10-06
+user_25,4497cdf0,Sports,Pabst Theater,2025-09-29
+user_25,cd2d5b24,Music,Turner Hall Ballroom,2025-08-31
+user_25,995d9fd8,Family,Fiserv Forum,2025-09-19
+user_25,886b9d75,Sports,Marcus Performing Arts Center,2025-09-11
+user_25,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_25,a94750de,Music,Turner Hall Ballroom,2025-09-17
+user_25,42c0d524,Music,Pabst Theater,2025-10-21
+user_25,2d772474,Art,Pabst Theater,2025-09-12
+user_26,806e88ce,Tech,Pabst Theater,2025-10-20
+user_26,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_26,4e82ba09,Business,Potawatomi Hotel,2025-10-06
+user_26,cf9c5c3d,Tech,Pabst Theater,2025-09-15
+user_26,cf9c5c3d,Education,Marcus Performing Arts Center,2025-09-15
+user_26,90d696b0,Sports,Fiserv Forum,2025-10-02
+user_26,652aed11,Tech,Discovery World,2025-09-14
+user_26,42c0d524,Music,Pabst Theater,2025-08-23
+user_26,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_26,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_26,40e45f04,Business,Fiserv Forum,2025-09-25
+user_26,a423e3ce,Cultural,Fiserv Forum,2025-10-14
+user_27,f46887c3,Tech,Fiserv Forum,2025-09-02
+user_27,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-26
+user_27,d1566254,Comedy,Bradley Symphony Center,2025-10-06
+user_27,4497cdf0,Cultural,Fiserv Forum,2025-09-29
+user_27,9b5ba10c,Comedy,Milwaukee Art Museum,2025-10-20
+user_27,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_27,ad0e9420,Food,Potawatomi Hotel,2025-09-10
+user_28,a423e3ce,Business,Fiserv Forum,2025-10-14
+user_28,61d778c9,Sports,Discovery World,2025-09-17
+user_28,4497cdf0,Cultural,Fiserv Forum,2025-09-29
+user_28,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_28,6df6d512,Cultural,Marcus Performing Arts Center,2025-10-12
+user_28,2364a41f,Comedy,Fiserv Forum,2025-09-02
+user_28,b6697f7f,Sports,Milwaukee Art Museum,2025-09-24
+user_28,7c8f67df,Family,UWM Campus,2025-09-05
+user_28,c5b7a7cd,Business,Turner Hall Ballroom,2025-09-12
+user_28,a423e3ce,Tech,Marcus Performing Arts Center,2025-10-14
+user_29,4e82ba09,Cultural,Bradley Symphony Center,2025-10-06
+user_29,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_29,42c0d524,Music,Pabst Theater,2025-10-21
+user_29,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_29,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_29,abc76b27,Food,Milwaukee Art Museum,2025-08-25
+user_29,6acc8778,Sports,Discovery World,2025-08-28
+user_30,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_30,2d772474,Art,Pabst Theater,2025-09-03
+user_30,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_30,f46887c3,Sports,Lakefront Brewery,2025-08-31
+user_30,f962777b,Music,Milwaukee Art Museum,2025-10-07
+user_30,afee4077,Music,Lakefront Brewery,2025-09-10
+user_30,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_31,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_31,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_31,1d29cf8a,Music,Potawatomi Hotel,2025-09-05
+user_31,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_31,b10380fd,Comedy,Bradley Symphony Center,2025-09-25
+user_31,cf9c5c3d,Business,Marcus Performing Arts Center,2025-09-15
+user_31,c5b7a7cd,Business,Turner Hall Ballroom,2025-09-12
+user_32,78185779,Food,Potawatomi Hotel,2025-10-10
+user_32,9b5ba10c,Comedy,Milwaukee Art Museum,2025-10-20
+user_32,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_32,4dbfe146,Music,Discovery World,2025-09-16
+user_32,afee4077,Music,Lakefront Brewery,2025-09-25
+user_32,9632c6c3,Cultural,UWM Campus,2025-09-06
+user_32,cc98cc8d,Art,Milwaukee Art Museum,2025-08-29
+user_32,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_32,9632c6c3,Tech,Lakefront Brewery,2025-09-06
+user_32,beb07660,Education,Turner Hall Ballroom,2025-09-21
+user_32,f46887c3,Education,UWM Campus,2025-09-01
+user_32,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_32,6acc8778,Education,Bradley Symphony Center,2025-08-28
+user_32,312eae74,Music,UWM Campus,2025-10-17
+user_32,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_33,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_33,15a96a07,Cultural,Potawatomi Hotel,2025-09-08
+user_33,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_33,b10380fd,Comedy,Bradley Symphony Center,2025-09-25
+user_33,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_33,c3023d0c,Education,UWM Campus,2025-08-30
+user_33,6c430453,Art,Fiserv Forum,2025-08-30
+user_33,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_33,14d976c7,Family,Turner Hall Ballroom,2025-09-12
+user_33,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_33,5f580912,Comedy,Pabst Theater,2025-10-15
+user_33,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_34,afee4077,Music,Lakefront Brewery,2025-09-10
+user_34,4dbfe146,Music,Discovery World,2025-09-16
+user_34,b0f2cc04,Art,Turner Hall Ballroom,2025-10-08
+user_34,9dd88d4b,Food,UWM Campus,2025-10-03
+user_34,afee4077,Music,Lakefront Brewery,2025-09-25
+user_34,40e45f04,Sports,Potawatomi Hotel,2025-09-25
+user_35,6f6365a6,Cultural,Milwaukee Art Museum,2025-09-07
+user_35,5399127f,Food,UWM Campus,2025-09-23
+user_35,4497cdf0,Sports,Discovery World,2025-09-30
+user_35,a330d102,Sports,Lakefront Brewery,2025-10-09
+user_35,1897f7a7,Comedy,Discovery World,2025-10-04
+user_35,5f580912,Comedy,Pabst Theater,2025-09-27
+user_35,408b75dd,Comedy,Potawatomi Hotel,2025-08-25
+user_35,1d29cf8a,Music,Potawatomi Hotel,2025-09-05
+user_35,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_35,bca88dc1,Cultural,Marcus Performing Arts Center,2025-08-24
+user_36,a330d102,Education,Potawatomi Hotel,2025-10-09
+user_36,40e45f04,Sports,Potawatomi Hotel,2025-09-25
+user_36,33ec0957,Education,Turner Hall Ballroom,2025-10-16
+user_36,d78fad92,Music,Fiserv Forum,2025-08-23
+user_36,b6697f7f,Sports,Marcus Performing Arts Center,2025-09-24
+user_36,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_36,2d772474,Art,Pabst Theater,2025-09-03
+user_36,78185779,Food,Potawatomi Hotel,2025-10-10
+user_36,42c0d524,Music,Pabst Theater,2025-10-21
+user_37,61d778c9,Sports,Discovery World,2025-09-17
+user_37,3e1be8bb,Art,Potawatomi Hotel,2025-09-21
+user_37,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_37,15a96a07,Sports,Bradley Symphony Center,2025-09-08
+user_37,6acc8778,Sports,Discovery World,2025-08-28
+user_37,995d9fd8,Family,Fiserv Forum,2025-09-19
+user_37,a423e3ce,Education,Marcus Performing Arts Center,2025-10-15
+user_37,652aed11,Food,Fiserv Forum,2025-09-14
+user_37,54789bba,Education,Potawatomi Hotel,2025-09-26
+user_37,43de26a6,Music,Milwaukee Art Museum,2025-09-20
+user_38,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_38,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_38,652aed11,Business,Discovery World,2025-09-14
+user_38,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_38,61d778c9,Food,Pabst Theater,2025-09-18
+user_38,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_38,1897f7a7,Comedy,Discovery World,2025-10-04
+user_38,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_38,afee4077,Music,Lakefront Brewery,2025-09-25
+user_38,c570aca5,Art,Marcus Performing Arts Center,2025-10-07
+user_38,d78fad92,Music,Fiserv Forum,2025-09-07
+user_38,f46887c3,Education,UWM Campus,2025-09-01
+user_38,40e45f04,Education,Marcus Performing Arts Center,2025-09-25
+user_38,4497cdf0,Cultural,Fiserv Forum,2025-09-29
+user_38,cf50fbf9,Sports,Turner Hall Ballroom,2025-09-04
+user_39,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_39,f7aaa8ae,Art,Discovery World,2025-10-07
+user_39,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_39,10663241,Cultural,Pabst Theater,2025-10-08
+user_39,6df6d512,Sports,Marcus Performing Arts Center,2025-10-12
+user_39,5f580912,Comedy,Pabst Theater,2025-09-27
+user_39,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_39,652aed11,Tech,Discovery World,2025-09-14
+user_39,9dd88d4b,Sports,Marcus Performing Arts Center,2025-10-03
+user_39,e01ec03a,Family,Potawatomi Hotel,2025-10-12
+user_39,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_39,14d976c7,Family,Turner Hall Ballroom,2025-09-12
+user_40,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_40,cc98cc8d,Art,Milwaukee Art Museum,2025-08-29
+user_40,b6697f7f,Sports,Milwaukee Art Museum,2025-09-24
+user_40,78185779,Cultural,Lakefront Brewery,2025-10-10
+user_40,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_41,4497cdf0,Sports,Pabst Theater,2025-09-29
+user_41,c5b7a7cd,Business,Turner Hall Ballroom,2025-09-12
+user_41,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_41,2d772474,Art,Pabst Theater,2025-09-12
+user_41,81edfa32,Sports,UWM Campus,2025-09-20
+user_41,c3023d0c,Education,UWM Campus,2025-08-30
+user_41,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_41,652aed11,Business,Discovery World,2025-09-14
+user_41,6f6365a6,Education,Turner Hall Ballroom,2025-09-07
+user_42,a18a67b4,Cultural,Fiserv Forum,2025-10-13
+user_42,15a96a07,Cultural,Potawatomi Hotel,2025-09-08
+user_42,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_42,9632c6c3,Education,UWM Campus,2025-09-05
+user_42,42c0d524,Music,Pabst Theater,2025-10-21
+user_42,b10380fd,Comedy,Bradley Symphony Center,2025-09-25
+user_42,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_42,310e1ffc,Comedy,UWM Campus,2025-10-16
+user_42,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_42,5399127f,Business,Marcus Performing Arts Center,2025-09-22
+user_42,312eae74,Music,UWM Campus,2025-10-17
+user_42,652aed11,Tech,Discovery World,2025-09-14
+user_42,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_43,6df6d512,Food,Potawatomi Hotel,2025-10-12
+user_43,1d29cf8a,Music,Potawatomi Hotel,2025-09-09
+user_43,00a68fc4,Cultural,Fiserv Forum,2025-10-18
+user_43,10663241,Cultural,Pabst Theater,2025-10-08
+user_43,917246b3,Comedy,Marcus Performing Arts Center,2025-10-09
+user_43,6df6d512,Cultural,Marcus Performing Arts Center,2025-10-12
+user_44,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_44,4497cdf0,Cultural,Discovery World,2025-09-29
+user_44,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-26
+user_44,f7aaa8ae,Art,Discovery World,2025-10-07
+user_44,33ec0957,Education,Turner Hall Ballroom,2025-10-16
+user_44,6df6d512,Cultural,Marcus Performing Arts Center,2025-10-12
+user_44,cf9c5c3d,Sports,Lakefront Brewery,2025-09-15
+user_44,bca88dc1,Cultural,Marcus Performing Arts Center,2025-08-24
+user_44,cf9c5c3d,Food,Discovery World,2025-09-15
+user_44,bca88dc1,Sports,Fiserv Forum,2025-08-24
+user_44,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_44,1d29cf8a,Music,Potawatomi Hotel,2025-09-09
+user_44,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_44,54789bba,Education,Potawatomi Hotel,2025-09-26
+user_45,f46887c3,Education,UWM Campus,2025-09-01
+user_45,81edfa32,Sports,Turner Hall Ballroom,2025-09-19
+user_45,f46887c3,Cultural,Turner Hall Ballroom,2025-08-31
+user_45,a423e3ce,Tech,Marcus Performing Arts Center,2025-10-14
+user_45,61d778c9,Food,Pabst Theater,2025-09-18
+user_45,d78fad92,Music,Fiserv Forum,2025-08-23
+user_45,bca88dc1,Cultural,Marcus Performing Arts Center,2025-08-24
+user_45,f46887c3,Education,UWM Campus,2025-09-01
+user_45,5f580912,Comedy,Pabst Theater,2025-10-03
+user_45,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_45,b0f2cc04,Art,Turner Hall Ballroom,2025-10-08
+user_45,6df6d512,Food,Potawatomi Hotel,2025-10-12
+user_45,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_45,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_46,2d772474,Art,Pabst Theater,2025-09-03
+user_46,c570aca5,Art,Marcus Performing Arts Center,2025-10-07
+user_46,10663241,Cultural,Pabst Theater,2025-10-08
+user_46,40e45f04,Sports,Potawatomi Hotel,2025-09-25
+user_46,33ec0957,Education,Turner Hall Ballroom,2025-10-16
+user_46,652aed11,Business,Discovery World,2025-09-14
+user_46,cf50fbf9,Food,Lakefront Brewery,2025-09-03
+user_46,5f580912,Comedy,Pabst Theater,2025-10-03
+user_46,652aed11,Food,Fiserv Forum,2025-09-14
+user_46,995d9fd8,Family,Fiserv Forum,2025-09-26
+user_46,15a96a07,Sports,Bradley Symphony Center,2025-09-08
+user_46,d78fad92,Music,Fiserv Forum,2025-08-23
+user_46,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_46,beb07660,Cultural,Pabst Theater,2025-09-21
+user_46,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_47,b999abb8,Sports,Discovery World,2025-09-09
+user_47,40e45f04,Education,Marcus Performing Arts Center,2025-09-25
+user_47,cf9c5c3d,Sports,Lakefront Brewery,2025-09-15
+user_47,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_47,ad0e9420,Food,Potawatomi Hotel,2025-09-10
+user_47,a94750de,Music,Turner Hall Ballroom,2025-09-17
+user_47,f46887c3,Tech,Fiserv Forum,2025-09-02
+user_48,9b5ba10c,Comedy,Milwaukee Art Museum,2025-10-20
+user_48,33ec0957,Cultural,Discovery World,2025-10-16
+user_48,408b75dd,Comedy,Potawatomi Hotel,2025-08-25
+user_48,00a68fc4,Food,Marcus Performing Arts Center,2025-10-18
+user_48,43de26a6,Music,Milwaukee Art Museum,2025-09-20
+user_48,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_48,a423e3ce,Sports,Pabst Theater,2025-10-15
+user_48,6acc8778,Sports,Discovery World,2025-08-28
+user_48,33ec0957,Education,Turner Hall Ballroom,2025-10-16
+user_49,652aed11,Tech,Discovery World,2025-09-14
+user_49,4497cdf0,Cultural,Fiserv Forum,2025-09-29
+user_49,a423e3ce,Tech,Marcus Performing Arts Center,2025-10-14
+user_49,a330d102,Sports,Lakefront Brewery,2025-10-09
+user_49,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_49,b10380fd,Comedy,Bradley Symphony Center,2025-09-25
+user_49,ad0e9420,Food,Potawatomi Hotel,2025-09-10
+user_49,61d778c9,Sports,Discovery World,2025-09-17
+user_49,f46887c3,Education,UWM Campus,2025-09-01
+user_49,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_49,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_50,cf9c5c3d,Food,Discovery World,2025-09-15
+user_50,6df6d512,Food,Potawatomi Hotel,2025-10-12
+user_50,c3023d0c,Sports,Marcus Performing Arts Center,2025-08-30
+user_50,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_50,917246b3,Comedy,Marcus Performing Arts Center,2025-10-09
+user_50,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_50,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_50,c3023d0c,Education,UWM Campus,2025-08-30
+user_50,61d778c9,Food,Pabst Theater,2025-09-18
+user_51,995d9fd8,Family,Fiserv Forum,2025-09-26
+user_51,61d778c9,Food,Pabst Theater,2025-09-18
+user_51,a94750de,Music,Turner Hall Ballroom,2025-09-17
+user_51,9632c6c3,Education,UWM Campus,2025-09-05
+user_51,1d29cf8a,Music,Potawatomi Hotel,2025-09-05
+user_52,beb07660,Education,Turner Hall Ballroom,2025-09-21
+user_52,81edfa32,Sports,Turner Hall Ballroom,2025-09-19
+user_52,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_52,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_52,4eacb7d9,Cultural,Marcus Performing Arts Center,2025-10-11
+user_52,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_52,1897f7a7,Comedy,Discovery World,2025-10-04
+user_52,cf9c5c3d,Education,Marcus Performing Arts Center,2025-09-15
+user_52,cd2d5b24,Music,Turner Hall Ballroom,2025-08-31
+user_52,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_52,40e45f04,Education,Marcus Performing Arts Center,2025-09-25
+user_53,beb07660,Education,Turner Hall Ballroom,2025-09-21
+user_53,2d772474,Art,Pabst Theater,2025-09-12
+user_53,1897f7a7,Comedy,Discovery World,2025-10-04
+user_53,90d696b0,Sports,Potawatomi Hotel,2025-10-01
+user_53,2d772474,Art,Pabst Theater,2025-09-03
+user_53,f962777b,Music,Milwaukee Art Museum,2025-10-07
+user_53,15a96a07,Education,Potawatomi Hotel,2025-09-08
+user_53,2364a41f,Comedy,Fiserv Forum,2025-09-02
+user_53,cf9c5c3d,Tech,Pabst Theater,2025-09-15
+user_53,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_53,c3023d0c,Sports,Marcus Performing Arts Center,2025-08-30
+user_53,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_53,a423e3ce,Business,Discovery World,2025-10-15
+user_54,a423e3ce,Education,Marcus Performing Arts Center,2025-10-15
+user_54,bca88dc1,Sports,Fiserv Forum,2025-08-24
+user_54,22738251,Family,Pabst Theater,2025-10-02
+user_54,10663241,Cultural,Pabst Theater,2025-10-08
+user_54,a423e3ce,Sports,Pabst Theater,2025-10-15
+user_54,78185779,Cultural,Lakefront Brewery,2025-10-10
+user_54,7c8f67df,Family,UWM Campus,2025-09-05
+user_54,4497cdf0,Sports,Discovery World,2025-09-30
+user_54,90d696b0,Sports,Fiserv Forum,2025-10-02
+user_54,c5b7a7cd,Education,Discovery World,2025-09-12
+user_54,917246b3,Comedy,Marcus Performing Arts Center,2025-10-09
+user_54,afee4077,Music,Lakefront Brewery,2025-09-25
+user_54,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_54,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_55,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_55,310e1ffc,Comedy,UWM Campus,2025-10-16
+user_55,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_55,f46887c3,Sports,Lakefront Brewery,2025-08-31
+user_55,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_55,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_55,c3023d0c,Education,UWM Campus,2025-08-30
+user_56,33ec0957,Business,Pabst Theater,2025-10-17
+user_56,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_56,6acc8778,Education,Bradley Symphony Center,2025-08-28
+user_56,652aed11,Food,Fiserv Forum,2025-09-14
+user_56,652aed11,Business,Discovery World,2025-09-14
+user_56,00a68fc4,Cultural,Fiserv Forum,2025-10-18
+user_56,2d772474,Art,Pabst Theater,2025-08-30
+user_56,1d74c917,Art,Turner Hall Ballroom,2025-09-28
+user_56,abc76b27,Food,Milwaukee Art Museum,2025-08-25
+user_56,6f6365a6,Education,Turner Hall Ballroom,2025-09-07
+user_56,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_56,4eacb7d9,Cultural,Marcus Performing Arts Center,2025-10-11
+user_56,312eae74,Music,UWM Campus,2025-10-17
+user_56,a94750de,Music,Turner Hall Ballroom,2025-09-17
+user_57,6c430453,Art,Fiserv Forum,2025-08-30
+user_57,c3023d0c,Sports,Marcus Performing Arts Center,2025-08-30
+user_57,c3023d0c,Education,UWM Campus,2025-08-30
+user_57,4497cdf0,Cultural,Fiserv Forum,2025-09-29
+user_57,42c0d524,Music,Pabst Theater,2025-10-21
+user_57,6f6365a6,Tech,Milwaukee Art Museum,2025-09-07
+user_57,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_57,9632c6c3,Cultural,Potawatomi Hotel,2025-09-06
+user_57,ad0e9420,Food,Potawatomi Hotel,2025-09-10
+user_57,9632c6c3,Education,UWM Campus,2025-09-05
+user_57,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_57,1d29cf8a,Music,Potawatomi Hotel,2025-09-05
+user_57,78185779,Sports,Lakefront Brewery,2025-10-10
+user_58,42c0d524,Music,Pabst Theater,2025-08-23
+user_58,f46887c3,Education,UWM Campus,2025-09-01
+user_58,4e82ba09,Cultural,Bradley Symphony Center,2025-10-06
+user_58,40e45f04,Education,Marcus Performing Arts Center,2025-09-25
+user_58,4497cdf0,Sports,Discovery World,2025-09-30
+user_58,61d778c9,Sports,Discovery World,2025-09-17
+user_58,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_58,e01ec03a,Family,Potawatomi Hotel,2025-10-12
+user_58,15a96a07,Education,Potawatomi Hotel,2025-09-08
+user_58,2d772474,Art,Pabst Theater,2025-09-12
+user_59,f46887c3,Sports,Lakefront Brewery,2025-08-31
+user_59,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_59,cf9c5c3d,Education,Marcus Performing Arts Center,2025-09-15
+user_59,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_59,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_60,f962777b,Music,Milwaukee Art Museum,2025-10-07
+user_60,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_60,f46887c3,Education,UWM Campus,2025-09-01
+user_60,886b9d75,Tech,Pabst Theater,2025-09-11
+user_60,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_60,b999abb8,Sports,Discovery World,2025-09-09
+user_60,a94750de,Music,Turner Hall Ballroom,2025-09-17
+user_60,a423e3ce,Business,Discovery World,2025-10-15
+user_60,995d9fd8,Family,Fiserv Forum,2025-09-26
+user_60,6f6365a6,Education,Turner Hall Ballroom,2025-09-07
+user_61,d78fad92,Music,Fiserv Forum,2025-09-07
+user_61,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_61,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_61,a18a67b4,Cultural,Fiserv Forum,2025-10-13
+user_61,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_61,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_61,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_61,abc76b27,Food,Milwaukee Art Museum,2025-08-25
+user_61,6f6365a6,Tech,Milwaukee Art Museum,2025-09-07
+user_61,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_61,995d9fd8,Family,Fiserv Forum,2025-09-26
+user_62,408b75dd,Comedy,Potawatomi Hotel,2025-08-25
+user_62,d51dae85,Family,Lakefront Brewery,2025-09-11
+user_62,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_62,f46887c3,Tech,Fiserv Forum,2025-09-02
+user_62,54789bba,Food,Lakefront Brewery,2025-09-26
+user_62,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_63,54789bba,Education,Potawatomi Hotel,2025-09-26
+user_63,4e82ba09,Business,Potawatomi Hotel,2025-10-06
+user_63,9632c6c3,Cultural,Potawatomi Hotel,2025-09-06
+user_63,cf50fbf9,Sports,Turner Hall Ballroom,2025-09-04
+user_63,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_63,a423e3ce,Business,Fiserv Forum,2025-10-14
+user_63,9632c6c3,Tech,Lakefront Brewery,2025-09-06
+user_63,afee4077,Music,Lakefront Brewery,2025-09-10
+user_63,cf9c5c3d,Tech,Pabst Theater,2025-09-15
+user_63,1d29cf8a,Music,Potawatomi Hotel,2025-09-09
+user_63,15a96a07,Education,Potawatomi Hotel,2025-09-08
+user_64,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_64,81edfa32,Sports,UWM Campus,2025-09-20
+user_64,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_64,995d9fd8,Family,Fiserv Forum,2025-09-19
+user_64,4497cdf0,Sports,Pabst Theater,2025-09-29
+user_64,23bc116d,Food,Bradley Symphony Center,2025-08-29
+user_64,5399127f,Education,Pabst Theater,2025-09-22
+user_64,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_64,2d772474,Art,Pabst Theater,2025-09-12
+user_64,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_65,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_65,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_65,1897f7a7,Comedy,Discovery World,2025-10-04
+user_65,995d9fd8,Family,Fiserv Forum,2025-09-19
+user_65,5f580912,Comedy,Pabst Theater,2025-10-01
+user_65,9632c6c3,Tech,Lakefront Brewery,2025-09-06
+user_65,c570aca5,Art,Marcus Performing Arts Center,2025-10-07
+user_65,e01ec03a,Family,Potawatomi Hotel,2025-10-12
+user_65,652aed11,Food,Fiserv Forum,2025-09-14
+user_65,1d74c917,Art,Turner Hall Ballroom,2025-09-28
+user_65,7c8f67df,Family,UWM Campus,2025-09-05
+user_65,cf50fbf9,Education,Discovery World,2025-09-03
+user_65,b999abb8,Sports,Discovery World,2025-09-09
+user_65,81edfa32,Sports,UWM Campus,2025-09-20
+user_65,cd2d5b24,Music,Turner Hall Ballroom,2025-08-31
+user_66,a18a67b4,Cultural,Fiserv Forum,2025-10-13
+user_66,a330d102,Sports,Lakefront Brewery,2025-10-09
+user_66,4dbfe146,Music,Discovery World,2025-09-16
+user_66,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_66,6f6365a6,Tech,Milwaukee Art Museum,2025-09-07
+user_66,4e82ba09,Cultural,Bradley Symphony Center,2025-10-06
+user_66,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_66,afee4077,Music,Lakefront Brewery,2025-09-10
+user_66,cf9c5c3d,Sports,Lakefront Brewery,2025-09-15
+user_66,3d21c2e9,Family,Discovery World,2025-10-18
+user_66,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_66,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_66,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_67,3e1be8bb,Art,Potawatomi Hotel,2025-09-21
+user_67,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_67,2d772474,Art,Pabst Theater,2025-08-30
+user_67,33ec0957,Business,Pabst Theater,2025-10-17
+user_67,a423e3ce,Education,Marcus Performing Arts Center,2025-10-15
+user_67,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_67,b6697f7f,Sports,Milwaukee Art Museum,2025-09-24
+user_67,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_67,9632c6c3,Education,Marcus Performing Arts Center,2025-09-05
+user_67,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_67,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_67,995d9fd8,Family,Fiserv Forum,2025-09-26
+user_68,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_68,f46887c3,Cultural,Turner Hall Ballroom,2025-08-31
+user_68,a423e3ce,Sports,Pabst Theater,2025-10-15
+user_68,c5b7a7cd,Education,Fiserv Forum,2025-09-12
+user_68,54789bba,Food,Lakefront Brewery,2025-09-26
+user_68,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_68,2d772474,Art,Pabst Theater,2025-08-30
+user_68,2d772474,Art,Pabst Theater,2025-09-03
+user_68,4497cdf0,Cultural,Fiserv Forum,2025-09-29
+user_68,9632c6c3,Cultural,Potawatomi Hotel,2025-09-06
+user_68,b6697f7f,Sports,Marcus Performing Arts Center,2025-09-24
+user_68,652aed11,Tech,Discovery World,2025-09-14
+user_68,5f580912,Comedy,Pabst Theater,2025-10-15
+user_68,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-26
+user_69,cf50fbf9,Food,Lakefront Brewery,2025-09-03
+user_69,9b5ba10c,Comedy,Milwaukee Art Museum,2025-10-20
+user_69,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_69,5399127f,Education,Pabst Theater,2025-09-22
+user_69,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_69,d78fad92,Music,Fiserv Forum,2025-08-23
+user_69,310e1ffc,Comedy,UWM Campus,2025-10-16
+user_70,14d976c7,Family,Turner Hall Ballroom,2025-09-12
+user_70,00a68fc4,Cultural,Fiserv Forum,2025-10-18
+user_70,33ec0957,Business,Pabst Theater,2025-10-17
+user_70,b75962c3,Family,Marcus Performing Arts Center,2025-08-26
+user_70,cf9c5c3d,Food,Discovery World,2025-09-15
+user_70,9960c24e,Business,Marcus Performing Arts Center,2025-09-28
+user_70,6c430453,Art,Fiserv Forum,2025-08-28
+user_71,78185779,Cultural,Lakefront Brewery,2025-10-10
+user_71,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_71,4e82ba09,Business,Turner Hall Ballroom,2025-10-06
+user_71,c5b7a7cd,Education,Discovery World,2025-09-12
+user_71,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_71,cf9c5c3d,Sports,Lakefront Brewery,2025-09-15
+user_71,1d74c917,Art,Turner Hall Ballroom,2025-09-28
+user_71,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_71,bca88dc1,Sports,Fiserv Forum,2025-08-24
+user_71,2d772474,Art,Pabst Theater,2025-09-03
+user_71,1897f7a7,Comedy,Discovery World,2025-10-04
+user_71,652aed11,Food,Fiserv Forum,2025-09-14
+user_72,42c0d524,Music,Pabst Theater,2025-10-21
+user_72,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_72,5f3b29e5,Music,UWM Campus,2025-08-28
+user_72,d78fad92,Music,Fiserv Forum,2025-08-23
+user_72,6c430453,Art,Fiserv Forum,2025-08-28
+user_73,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_73,e01ec03a,Family,Potawatomi Hotel,2025-10-12
+user_73,886b9d75,Sports,Marcus Performing Arts Center,2025-09-11
+user_73,d78fad92,Music,Fiserv Forum,2025-08-23
+user_73,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_73,bca88dc1,Cultural,Marcus Performing Arts Center,2025-08-24
+user_73,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_73,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_73,9632c6c3,Education,Marcus Performing Arts Center,2025-09-05
+user_73,f46887c3,Cultural,Turner Hall Ballroom,2025-08-31
+user_73,6acc8778,Sports,Discovery World,2025-08-28
+user_73,90d696b0,Sports,Potawatomi Hotel,2025-10-01
+user_74,6acc8778,Sports,Discovery World,2025-08-28
+user_74,42c0d524,Music,Pabst Theater,2025-10-21
+user_74,90d696b0,Sports,Potawatomi Hotel,2025-10-01
+user_74,9632c6c3,Education,UWM Campus,2025-09-05
+user_74,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_74,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_74,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_74,d78fad92,Music,Fiserv Forum,2025-08-23
+user_74,6f6365a6,Cultural,Milwaukee Art Museum,2025-09-07
+user_75,3e1be8bb,Art,Potawatomi Hotel,2025-09-21
+user_75,806e88ce,Tech,Pabst Theater,2025-10-20
+user_75,78185779,Food,Potawatomi Hotel,2025-10-10
+user_75,afee4077,Music,Lakefront Brewery,2025-09-25
+user_75,5f580912,Comedy,Pabst Theater,2025-10-15
+user_75,d1566254,Comedy,Bradley Symphony Center,2025-10-06
+user_75,cf9c5c3d,Tech,Pabst Theater,2025-09-15
+user_75,d78fad92,Music,Fiserv Forum,2025-08-23
+user_75,15a96a07,Education,Potawatomi Hotel,2025-09-08
+user_76,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_76,4e82ba09,Cultural,Bradley Symphony Center,2025-10-06
+user_76,90d696b0,Sports,Fiserv Forum,2025-10-02
+user_76,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_76,78185779,Food,Potawatomi Hotel,2025-10-10
+user_76,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_76,f46887c3,Tech,Fiserv Forum,2025-09-02
+user_76,cf50fbf9,Business,Discovery World,2025-09-04
+user_76,3e1be8bb,Art,Potawatomi Hotel,2025-09-21
+user_76,33ec0957,Cultural,Discovery World,2025-10-16
+user_76,1897f7a7,Comedy,Discovery World,2025-10-04
+user_76,afee4077,Music,Lakefront Brewery,2025-09-25
+user_76,81edfa32,Sports,Turner Hall Ballroom,2025-09-19
+user_76,9b5ba10c,Comedy,Milwaukee Art Museum,2025-10-20
+user_77,4e82ba09,Business,Turner Hall Ballroom,2025-10-06
+user_77,886b9d75,Tech,Pabst Theater,2025-09-11
+user_77,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_77,9632c6c3,Cultural,Potawatomi Hotel,2025-09-06
+user_77,5399127f,Food,UWM Campus,2025-09-23
+user_77,f7aaa8ae,Art,Discovery World,2025-10-07
+user_77,6df6d512,Food,Potawatomi Hotel,2025-10-12
+user_77,2d772474,Art,Pabst Theater,2025-09-03
+user_77,1d29cf8a,Music,Potawatomi Hotel,2025-09-05
+user_77,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_77,b999abb8,Sports,Discovery World,2025-09-09
+user_77,4e82ba09,Business,Potawatomi Hotel,2025-10-06
+user_77,5f580912,Comedy,Pabst Theater,2025-09-27
+user_77,a330d102,Sports,Lakefront Brewery,2025-10-09
+user_78,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_78,5399127f,Education,Pabst Theater,2025-09-22
+user_78,cf9c5c3d,Education,Marcus Performing Arts Center,2025-09-15
+user_78,d51dae85,Family,Lakefront Brewery,2025-09-11
+user_78,43de26a6,Music,Milwaukee Art Museum,2025-09-20
+user_78,b10380fd,Comedy,Bradley Symphony Center,2025-09-25
+user_78,461bfdb8,Family,Milwaukee Art Museum,2025-09-26
+user_78,652aed11,Business,Discovery World,2025-09-14
+user_78,6f6365a6,Tech,Milwaukee Art Museum,2025-09-07
+user_78,f962777b,Music,Milwaukee Art Museum,2025-10-07
+user_78,f46887c3,Education,UWM Campus,2025-09-01
+user_78,806e88ce,Tech,Pabst Theater,2025-10-20
+user_78,5f580912,Comedy,Pabst Theater,2025-10-03
+user_78,40e45f04,Education,Marcus Performing Arts Center,2025-09-25
+user_79,ad0e9420,Food,Potawatomi Hotel,2025-09-10
+user_79,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_79,15a96a07,Cultural,Potawatomi Hotel,2025-09-08
+user_79,652aed11,Business,Discovery World,2025-09-14
+user_79,15a96a07,Sports,Bradley Symphony Center,2025-09-08
+user_79,6df6d512,Sports,Marcus Performing Arts Center,2025-10-12
+user_79,a18a67b4,Cultural,Fiserv Forum,2025-10-13
+user_79,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_79,c570aca5,Art,Marcus Performing Arts Center,2025-10-07
+user_79,2364a41f,Comedy,Fiserv Forum,2025-10-21
+user_79,f46887c3,Education,UWM Campus,2025-09-01
+user_79,bca88dc1,Cultural,Marcus Performing Arts Center,2025-08-24
+user_79,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_79,7c8f67df,Family,UWM Campus,2025-09-05
+user_79,afee4077,Music,Lakefront Brewery,2025-09-25
+user_80,cf9c5c3d,Education,Marcus Performing Arts Center,2025-09-15
+user_80,beb07660,Education,Turner Hall Ballroom,2025-09-21
+user_80,2d772474,Art,Pabst Theater,2025-09-12
+user_80,78185779,Food,Potawatomi Hotel,2025-10-10
+user_80,23bc116d,Sports,Lakefront Brewery,2025-08-29
+user_80,5f580912,Comedy,Pabst Theater,2025-10-15
+user_80,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_80,917246b3,Comedy,Marcus Performing Arts Center,2025-10-09
+user_80,4497cdf0,Sports,Pabst Theater,2025-09-29
+user_80,afee4077,Music,Lakefront Brewery,2025-09-10
+user_80,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_80,408b75dd,Comedy,Potawatomi Hotel,2025-09-11
+user_81,5399127f,Education,UWM Campus,2025-09-23
+user_81,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_81,5d2dd686,Art,Marcus Performing Arts Center,2025-08-28
+user_81,abc76b27,Food,Milwaukee Art Museum,2025-08-25
+user_81,a423e3ce,Sports,Bradley Symphony Center,2025-10-14
+user_81,1d29cf8a,Music,Potawatomi Hotel,2025-09-09
+user_81,1d74c917,Art,Turner Hall Ballroom,2025-09-28
+user_82,995d9fd8,Family,Fiserv Forum,2025-09-26
+user_82,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_82,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_82,5399127f,Education,UWM Campus,2025-09-23
+user_82,10663241,Cultural,Pabst Theater,2025-10-08
+user_82,3d21c2e9,Family,Discovery World,2025-10-18
+user_82,b0f2cc04,Art,Turner Hall Ballroom,2025-10-08
+user_82,6f6365a6,Cultural,Milwaukee Art Museum,2025-09-07
+user_83,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_83,3e1be8bb,Art,Potawatomi Hotel,2025-09-21
+user_83,90d696b0,Sports,Potawatomi Hotel,2025-10-01
+user_83,6acc8778,Education,Bradley Symphony Center,2025-08-28
+user_83,f46887c3,Education,UWM Campus,2025-09-01
+user_83,a423e3ce,Cultural,Fiserv Forum,2025-10-14
+user_83,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_83,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_83,1d29cf8a,Music,Potawatomi Hotel,2025-08-27
+user_83,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_83,23bc116d,Business,Lakefront Brewery,2025-08-29
+user_83,cc98cc8d,Art,Milwaukee Art Museum,2025-08-29
+user_84,b999abb8,Sports,Discovery World,2025-09-09
+user_84,7c8f67df,Family,UWM Campus,2025-09-05
+user_84,4497cdf0,Cultural,Discovery World,2025-09-29
+user_84,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_84,90d696b0,Cultural,Marcus Performing Arts Center,2025-10-01
+user_84,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_84,cf9c5c3d,Business,Marcus Performing Arts Center,2025-09-15
+user_84,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_84,b0f2cc04,Art,Turner Hall Ballroom,2025-10-08
+user_84,81edfa32,Sports,Turner Hall Ballroom,2025-09-19
+user_84,652aed11,Tech,Discovery World,2025-09-14
+user_85,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_85,a423e3ce,Cultural,Fiserv Forum,2025-10-14
+user_85,90d696b0,Sports,Potawatomi Hotel,2025-10-01
+user_85,6df6d512,Food,Potawatomi Hotel,2025-10-12
+user_85,a18a67b4,Sports,Turner Hall Ballroom,2025-10-13
+user_85,4c1e5e74,Music,Turner Hall Ballroom,2025-10-20
+user_85,4497cdf0,Cultural,Discovery World,2025-09-29
+user_85,652aed11,Tech,Discovery World,2025-09-14
+user_85,40e45f04,Business,Fiserv Forum,2025-09-25
+user_85,9632c6c3,Cultural,UWM Campus,2025-09-06
+user_85,f7aaa8ae,Art,Discovery World,2025-10-07
+user_85,78185779,Sports,Lakefront Brewery,2025-10-10
+user_85,4497cdf0,Sports,Pabst Theater,2025-09-29
+user_86,4eacb7d9,Food,Fiserv Forum,2025-10-11
+user_86,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_86,9632c6c3,Cultural,Potawatomi Hotel,2025-09-06
+user_86,7c8f67df,Family,UWM Campus,2025-09-05
+user_86,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_87,c5b7a7cd,Education,Fiserv Forum,2025-09-12
+user_87,4e82ba09,Business,Potawatomi Hotel,2025-10-06
+user_87,2d772474,Art,Pabst Theater,2025-09-12
+user_87,6f6365a6,Cultural,Milwaukee Art Museum,2025-09-07
+user_87,a18a67b4,Sports,Turner Hall Ballroom,2025-10-13
+user_87,a330d102,Sports,Lakefront Brewery,2025-10-09
+user_87,a423e3ce,Tech,Marcus Performing Arts Center,2025-10-14
+user_88,a423e3ce,Business,Discovery World,2025-10-15
+user_88,6f6365a6,Cultural,Milwaukee Art Museum,2025-09-07
+user_88,5f580912,Comedy,Pabst Theater,2025-10-03
+user_88,5399127f,Business,Marcus Performing Arts Center,2025-09-22
+user_88,652aed11,Business,Discovery World,2025-09-14
+user_88,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_88,652aed11,Tech,Discovery World,2025-09-14
+user_88,40e45f04,Sports,Potawatomi Hotel,2025-09-25
+user_89,c570aca5,Art,Marcus Performing Arts Center,2025-10-07
+user_89,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_89,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_89,6df6d512,Sports,Marcus Performing Arts Center,2025-10-12
+user_89,b75962c3,Family,Marcus Performing Arts Center,2025-08-26
+user_89,a330d102,Education,Potawatomi Hotel,2025-10-09
+user_89,fc2a4c38,Family,Lakefront Brewery,2025-10-17
+user_89,54789bba,Food,Lakefront Brewery,2025-09-26
+user_89,a18a67b4,Sports,Turner Hall Ballroom,2025-10-13
+user_89,6c430453,Art,Fiserv Forum,2025-08-28
+user_89,cf9c5c3d,Food,Discovery World,2025-09-15
+user_89,78185779,Food,Potawatomi Hotel,2025-10-10
+user_89,81edfa32,Business,Milwaukee Art Museum,2025-09-19
+user_89,c5b7a7cd,Business,Turner Hall Ballroom,2025-09-12
+user_90,23bc116d,Education,Potawatomi Hotel,2025-08-29
+user_90,6df6d512,Cultural,Marcus Performing Arts Center,2025-10-12
+user_90,6f6365a6,Cultural,Milwaukee Art Museum,2025-09-07
+user_90,d78fad92,Music,Fiserv Forum,2025-08-23
+user_90,4e82ba09,Business,Turner Hall Ballroom,2025-10-06
+user_90,b10380fd,Comedy,Bradley Symphony Center,2025-09-25
+user_90,b75962c3,Family,Marcus Performing Arts Center,2025-10-02
+user_90,cf50fbf9,Business,Fiserv Forum,2025-09-04
+user_90,b999abb8,Sports,Discovery World,2025-09-09
+user_90,beb07660,Education,Turner Hall Ballroom,2025-09-21
+user_90,a330d102,Food,Discovery World,2025-10-09
+user_90,f46887c3,Education,UWM Campus,2025-09-01
+user_91,15a96a07,Sports,Bradley Symphony Center,2025-09-08
+user_91,6df6d512,Food,Potawatomi Hotel,2025-10-12
+user_91,312eae74,Music,UWM Campus,2025-10-17
+user_91,40e45f04,Education,Marcus Performing Arts Center,2025-09-25
+user_91,beb07660,Cultural,Pabst Theater,2025-09-21
+user_91,5399127f,Education,Potawatomi Hotel,2025-09-22
+user_91,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_91,2d772474,Art,Pabst Theater,2025-09-12
+user_91,33ec0957,Business,Pabst Theater,2025-10-17
+user_91,a423e3ce,Business,Fiserv Forum,2025-10-14
+user_91,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_91,2d772474,Art,Pabst Theater,2025-08-30
+user_92,90d696b0,Tech,Lakefront Brewery,2025-10-01
+user_92,c570aca5,Art,Marcus Performing Arts Center,2025-10-07
+user_92,4eacb7d9,Food,Fiserv Forum,2025-10-11
+user_92,b0f2cc04,Art,Turner Hall Ballroom,2025-10-08
+user_92,54789bba,Food,Lakefront Brewery,2025-09-26
+user_93,4497cdf0,Cultural,Fiserv Forum,2025-09-29
+user_93,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_93,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_93,afee4077,Music,Lakefront Brewery,2025-09-10
+user_93,2364a41f,Comedy,Fiserv Forum,2025-10-21
+user_93,4497cdf0,Sports,Discovery World,2025-09-30
+user_93,4e82ba09,Business,Potawatomi Hotel,2025-10-06
+user_93,a423e3ce,Education,Marcus Performing Arts Center,2025-10-15
+user_93,61d778c9,Sports,Discovery World,2025-09-17
+user_93,33ec0957,Cultural,Discovery World,2025-10-16
+user_93,61d778c9,Food,Pabst Theater,2025-09-18
+user_93,e5c771b7,Family,Bradley Symphony Center,2025-10-09
+user_93,7c8f67df,Family,UWM Campus,2025-09-05
+user_93,b0e77c59,Art,Lakefront Brewery,2025-09-26
+user_93,cc98cc8d,Art,Milwaukee Art Museum,2025-08-29
+user_94,1d74c917,Art,Turner Hall Ballroom,2025-09-28
+user_94,886b9d75,Sports,Marcus Performing Arts Center,2025-09-11
+user_94,00a68fc4,Cultural,Fiserv Forum,2025-10-18
+user_94,6acc8778,Education,Bradley Symphony Center,2025-08-28
+user_94,886b9d75,Sports,Milwaukee Art Museum,2025-09-11
+user_94,ebe6b5ce,Comedy,Lakefront Brewery,2025-08-23
+user_94,6df6d512,Cultural,Marcus Performing Arts Center,2025-10-12
+user_94,78185779,Cultural,Lakefront Brewery,2025-10-10
+user_94,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_94,14d976c7,Family,Turner Hall Ballroom,2025-09-12
+user_94,bca88dc1,Cultural,Marcus Performing Arts Center,2025-08-24
+user_95,15a96a07,Sports,Marcus Performing Arts Center,2025-09-08
+user_95,b0e77c59,Art,Lakefront Brewery,2025-09-26
+user_95,afee4077,Music,Lakefront Brewery,2025-09-25
+user_95,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_95,00a68fc4,Cultural,Fiserv Forum,2025-10-18
+user_95,5f580912,Comedy,Pabst Theater,2025-10-03
+user_95,40e45f04,Business,Fiserv Forum,2025-09-25
+user_95,652aed11,Food,Fiserv Forum,2025-09-14
+user_95,a405dfb4,Music,Marcus Performing Arts Center,2025-10-06
+user_95,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_95,f46887c3,Tech,Fiserv Forum,2025-09-02
+user_96,ad0e9420,Food,Potawatomi Hotel,2025-09-10
+user_96,a423e3ce,Education,Marcus Performing Arts Center,2025-10-15
+user_96,b75962c3,Family,Marcus Performing Arts Center,2025-08-26
+user_96,6df6d512,Cultural,Marcus Performing Arts Center,2025-10-12
+user_96,4eacb7d9,Sports,Fiserv Forum,2025-10-11
+user_96,bca88dc1,Sports,Fiserv Forum,2025-08-24
+user_96,cf50fbf9,Sports,Turner Hall Ballroom,2025-09-04
+user_96,beb07660,Cultural,Pabst Theater,2025-09-21
+user_96,61d778c9,Sports,Discovery World,2025-09-17
+user_96,4e82ba09,Business,Potawatomi Hotel,2025-10-06
+user_96,4497cdf0,Cultural,Discovery World,2025-09-29
+user_96,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_96,408b75dd,Comedy,Potawatomi Hotel,2025-08-25
+user_96,4eacb7d9,Cultural,Marcus Performing Arts Center,2025-10-11
+user_97,4497cdf0,Tech,Lakefront Brewery,2025-09-29
+user_97,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_97,3e1be8bb,Art,Potawatomi Hotel,2025-09-21
+user_97,652aed11,Tech,Discovery World,2025-09-14
+user_97,5399127f,Business,Marcus Performing Arts Center,2025-09-22
+user_98,00a68fc4,Cultural,UWM Campus,2025-10-19
+user_98,d51dae85,Family,Lakefront Brewery,2025-09-11
+user_98,408b75dd,Comedy,Turner Hall Ballroom,2025-09-02
+user_98,40e45f04,Business,Fiserv Forum,2025-09-25
+user_98,a423e3ce,Business,Fiserv Forum,2025-10-14
+user_98,90d696b0,Sports,Fiserv Forum,2025-10-02
+user_98,f46887c3,Sports,Lakefront Brewery,2025-08-31
+user_98,54789bba,Education,Marcus Performing Arts Center,2025-09-26
+user_99,a18a67b4,Cultural,Fiserv Forum,2025-10-13
+user_99,a330d102,Food,Discovery World,2025-10-09
+user_99,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_99,42c0d524,Music,Pabst Theater,2025-08-23
+user_99,0766ad9a,Art,Bradley Symphony Center,2025-09-26
+user_99,c5b7a7cd,Education,Fiserv Forum,2025-09-12
+user_100,d51dae85,Family,Lakefront Brewery,2025-09-11
+user_100,78185779,Education,Lakefront Brewery,2025-10-10
+user_100,6f6365a6,Tech,Milwaukee Art Museum,2025-09-07
+user_100,90d696b0,Cultural,Bradley Symphony Center,2025-10-01
+user_100,c5b7a7cd,Business,Turner Hall Ballroom,2025-09-12
+user_100,2364a41f,Comedy,Fiserv Forum,2025-09-02
+user_100,1897f7a7,Comedy,Turner Hall Ballroom,2025-10-08
+user_100,a423e3ce,Education,Marcus Performing Arts Center,2025-10-15
+user_100,cf9c5c3d,Food,Discovery World,2025-09-15
+user_100,2d772474,Art,Pabst Theater,2025-09-12
+user_100,cf9c5c3d,Food,Turner Hall Ballroom,2025-09-15
+user_100,a330d102,Business,Lakefront Brewery,2025-10-09
+user_100,461bfdb8,Family,Milwaukee Art Museum,2025-08-29
+user_100,7abc035a,Cultural,Milwaukee Art Museum,2025-08-23
+user_100,c3023d0c,Education,UWM Campus,2025-08-30
